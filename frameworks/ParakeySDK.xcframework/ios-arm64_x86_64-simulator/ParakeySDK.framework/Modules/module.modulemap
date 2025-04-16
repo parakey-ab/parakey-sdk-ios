@@ -1,0 +1,4 @@
+framework module ParakeySDK {
+  header "ParakeySDK-Swift.h"
+  requires objc
+}
