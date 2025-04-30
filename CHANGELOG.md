@@ -8,6 +8,10 @@
 - *Security* in case of vulnerabilities.
 
 
+## [0.8.2] - 2025-04-30
+Fixed:
+- sdk: docs add parakey partner api link
+
 ## [0.8.1] - 2025-04-30
 Fixed:
 - sdk: invalid headers
