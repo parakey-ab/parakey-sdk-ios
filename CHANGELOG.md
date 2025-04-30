@@ -8,6 +8,10 @@
 - *Security* in case of vulnerabilities.
 
 
+## [0.8.1] - 2025-04-30
+Fixed:
+- sdk: invalid headers
+
 ## [0.8.0] - 2025-04-29
 Added:
 - new log entry structure
