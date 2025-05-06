@@ -1,3 +1,7 @@
+## [0.8.3] - 2025-05-06
+Fixed:
+- sdk: initialize crashes apps without display name
+
 ## [0.8.2] - 2025-04-30
 
 Fixed:
