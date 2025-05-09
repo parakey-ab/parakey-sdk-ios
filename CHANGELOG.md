@@ -1,3 +1,7 @@
+## [0.8.4] - 2025-05-09
+Fixed:
+- sdk: success modal doesn't dismiss automatically
+
 ## [0.8.3] - 2025-05-06
 Fixed:
 - sdk: initialize crashes apps without display name
