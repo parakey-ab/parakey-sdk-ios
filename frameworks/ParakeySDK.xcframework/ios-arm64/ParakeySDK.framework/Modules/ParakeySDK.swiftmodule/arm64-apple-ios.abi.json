@@ -730,6 +730,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "ParakeyDomain",
+        "printedName": "ParakeyDomain",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",

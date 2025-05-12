@@ -1,3 +1,7 @@
+## [0.8.5] - 2025-05-12
+Fixed:
+- sdk: unauthorized request does not wipe session
+
 ## [0.8.4] - 2025-05-09
 Fixed:
 - sdk: success modal doesn't dismiss automatically
