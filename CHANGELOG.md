@@ -1,3 +1,7 @@
+## [0.8.6] - 2025-05-13
+Fixed:
+- sdk: update unauthorized alert copy
+
 ## [0.8.5] - 2025-05-12
 Fixed:
 - sdk: unauthorized request does not wipe session
