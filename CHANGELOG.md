@@ -1,3 +1,7 @@
+## [0.9.0] - 2025-05-16
+Added:
+- sdk: unlock provides haptic feedback
+
 ## [0.8.6] - 2025-05-13
 Fixed:
 - sdk: update unauthorized alert copy

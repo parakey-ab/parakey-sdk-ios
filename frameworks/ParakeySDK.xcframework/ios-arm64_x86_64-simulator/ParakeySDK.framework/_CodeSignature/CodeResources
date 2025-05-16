@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		JSaYM8G0Yx6Kgn0gzhuOFRxswZ8=
+		2ClQaAgW+OFDYnn4l89naF8eTto=
 		</data>
 		<key>DataModel.momd/Model.mom</key>
 		<data>
-		tYxQMK/d+o+i32B4FbqOdbBVNz8=
+		3XhtJlmS95TyxfAsKeNjiWudKCk=
 		</data>
 		<key>DataModel.momd/VersionInfo.plist</key>
 		<data>
-		UsAkUxq58yuHfVB7fR9ZFr3N7Tc=
+		vgI0VQbdVfoysERUNNf7OrdfZ5c=
 		</data>
 		<key>Headers/ParakeySDK-Swift.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WPCUWUZ+GQIM8Cispcvc1s1x3wQ=
+		imT761lz/yyr1Kc7V5NHihBZ+fE=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eWrkRz6glEjuHoTeT80LApiCrYA=
+		N6GK5ZXTjGDJva9HT4X9lFsFTWg=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xkS4pu4msgjn5zskqmdG7qp8M4Q=
+		7xTsfC2VvzhEsYDleNebpTHXz1I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -115,21 +115,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zwlz3/V854ZJ1QLoTff+Rw9UXnwPQNUggwLPRgrnuQ=
+			Pgn6PuabtYGDS5x9gnFEGIuM7iVFJ3bNv6+bFRNgexA=
 			</data>
 		</dict>
 		<key>DataModel.momd/Model.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mMS9Omo/Ifk1looZwYyOUE2C+wax/gmoqLJ9kIcd0u4=
+			jzNt1+3ujI/vMIK+vphAj0m7PqtvgpMLL5zctuja+bY=
 			</data>
 		</dict>
 		<key>DataModel.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZKATlsGV3+sZ90dphMUihaRYLPQe+KY+ImIQaHyejF4=
+			BrpzHN2SvmsCJrB/5U+JGpNpo4j8V6VFtoQ+9v69FDY=
 			</data>
 		</dict>
 		<key>Headers/ParakeySDK-Swift.h</key>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U5zbjB649/hjFlYKyOcnWAR6M6DMRPYis1JRS2D8Yys=
+			twUZ0RVgO1lSuxFXsAMNlbxs3TWkrerZy96CmdT6ylo=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -206,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HB+xYji/cOLqTRz0xSQUlNlNLoWH5vkYMTLVxpWwQKM=
+			vmdndoNqcq1ymdEP5yEGzUQ+hmFp5PxnHYyVZsmk3XM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
