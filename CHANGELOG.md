@@ -1,3 +1,7 @@
+## [0.9.2] - 2025-05-21
+Fixed:
+- incorrect light mode unlock modal success color
+
 ## [0.9.1] - 2025-05-21
 Fixed:
 - incorrect dark mode colors for unlock modal
