@@ -1,3 +1,7 @@
+## [0.9.1] - 2025-05-21
+Fixed:
+- incorrect dark mode colors for unlock modal
+
 ## [0.9.0] - 2025-05-16
 Added:
 - sdk: unlock provides haptic feedback
