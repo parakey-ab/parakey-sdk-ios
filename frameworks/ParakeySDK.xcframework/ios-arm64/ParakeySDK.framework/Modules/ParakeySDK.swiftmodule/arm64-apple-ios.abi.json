@@ -169,6 +169,58 @@
           },
           {
             "kind": "Function",
+            "name": "theme",
+            "printedName": "theme(action:title:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10ParakeySDK0A0C5theme6action5titleySo7UIColorCSg_AItF",
+            "mangledName": "$s10ParakeySDK0A0C5theme6action5titleySo7UIColorCSg_AItF",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "configure",
             "printedName": "configure(tokenBundle:completion:)",
             "children": [
@@ -645,6 +697,16 @@
       },
       {
         "kind": "Import",
+        "name": "ParakeyDomain",
+        "printedName": "ParakeyDomain",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -683,6 +745,23 @@
         "declAttributes": [
           "AccessControl"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "ParakeyDomain",
+        "printedName": "ParakeyDomain",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK"
       },
       {
         "kind": "Import",
@@ -8297,7 +8376,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/ScanViewController.swift",
       "kind": "Array",
-      "offset": 412,
+      "offset": 444,
       "length": 2,
       "value": "[]"
     },

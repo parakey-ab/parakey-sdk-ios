@@ -16,6 +16,7 @@ import _SwiftConcurrencyShims
 final public class Parakey {
   public static let shared: ParakeySDK.Parakey
   final public func initialize()
+  final public func theme(action: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil)
   final public func configure(tokenBundle: Swift.String, completion: @escaping (ParakeySDK.ParakeyError?) -> Swift.Void)
   final public func deconfigure()
   final public func showScan(completion: @escaping (ParakeySDK.ParakeyError?) -> Swift.Void)
