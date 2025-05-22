@@ -1,3 +1,7 @@
+## [0.11.0] - 2025-05-22
+Added:
+- support norwegian
+
 ## [0.10.0] - 2025-05-22
 Added:
 - sdk: allow settings SDK colors
