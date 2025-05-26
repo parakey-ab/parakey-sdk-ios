@@ -1,3 +1,7 @@
+## [0.12.1] - 2025-05-26
+Fixed:
+- correct norwegian translations
+
 ## [0.12.0] - 2025-05-26
 Added:
 - sdk: error identifiers
