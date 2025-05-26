@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "ParakeySDK"
-  spec.version = "0.11.0"
+  spec.version = "0.12.0"
   spec.summary = "The Parakey SDK allows your application to unlock Parakey Devices"
   spec.homepage = "https://www.parakey.co"
   spec.license = { :type => 'PROPRIETARY', :file => 'LICENSE.md' }

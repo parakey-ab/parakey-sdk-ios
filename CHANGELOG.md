@@ -1,3 +1,7 @@
+## [0.12.0] - 2025-05-26
+Added:
+- sdk: error identifiers
+
 ## [0.11.0] - 2025-05-22
 Added:
 - support norwegian
