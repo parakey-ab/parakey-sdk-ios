@@ -1,3 +1,7 @@
+## [0.14.0] - 2025-05-28
+Added:
+- sdk: locks show as out of range
+
 ## [0.13.0] - 2025-05-28
 Added:
 - sdk: frequently unlocked
