@@ -1,3 +1,7 @@
+## [0.13.0] - 2025-05-28
+Added:
+- sdk: frequently unlocked
+
 ## [0.12.1] - 2025-05-26
 Fixed:
 - correct norwegian translations
