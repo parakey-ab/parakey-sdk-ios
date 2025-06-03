@@ -1,3 +1,7 @@
+## [0.14.1] - 2025-06-03
+Fixed:
+- sdk: change close button to done
+
 ## [0.14.0] - 2025-05-28
 Added:
 - sdk: locks show as out of range

@@ -39,16 +39,6 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "ParakeySDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
         "moduleName": "ParakeySDK"
       },
       {
@@ -745,23 +735,6 @@
         "declAttributes": [
           "AccessControl"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "ParakeyDomain",
-        "printedName": "ParakeyDomain",
-        "declKind": "Import",
-        "moduleName": "ParakeySDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "ParakeySDK"
       },
       {
         "kind": "Import",
@@ -8376,7 +8349,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/ScanViewController.swift",
       "kind": "Array",
-      "offset": 569,
+      "offset": 537,
       "length": 2,
       "value": "[]"
     },
