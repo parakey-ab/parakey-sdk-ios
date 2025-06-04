@@ -1,3 +1,7 @@
+## [0.15.0] - 2025-06-04
+Added:
+- sdk: unlock preferences
+
 ## [0.14.1] - 2025-06-03
 Fixed:
 - sdk: change close button to done
