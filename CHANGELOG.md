@@ -1,3 +1,7 @@
+## [0.16.0] - 2025-06-05
+Added:
+- sdk: pull to refresh
+
 ## [0.15.0] - 2025-06-04
 Added:
 - sdk: unlock preferences
