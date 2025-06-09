@@ -1,3 +1,10 @@
+## [0.17.0] - 2025-06-09
+Added:
+- sdk: dismiss after unlock
+
+Fixed:
+- outdated copy
+
 ## [0.16.0] - 2025-06-05
 Added:
 - sdk: pull to refresh
