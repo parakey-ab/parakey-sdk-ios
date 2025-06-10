@@ -1,3 +1,7 @@
+## [0.17.1] - 2025-06-10
+Fixed:
+- remove norwegian translation
+
 ## [0.17.0] - 2025-06-09
 Added:
 - sdk: dismiss after unlock
