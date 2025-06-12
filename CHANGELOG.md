@@ -1,3 +1,7 @@
+## [0.17.2] - 2025-06-12
+Fixed:
+- remove nil and nulls from JSON in HTTP requests
+
 ## [0.17.1] - 2025-06-10
 Fixed:
 - remove norwegian translation
