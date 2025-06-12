@@ -1,3 +1,7 @@
+## [0.18.0] - 2025-06-12
+Added:
+- sdk: continue scanning after unlock
+
 ## [0.17.2] - 2025-06-12
 Fixed:
 - remove nil and nulls from JSON in HTTP requests

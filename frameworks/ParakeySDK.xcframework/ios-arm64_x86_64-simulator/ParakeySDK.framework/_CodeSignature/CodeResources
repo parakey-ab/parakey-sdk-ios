@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		sd0iMnjDkm8L+s6sta12BdRyAcc=
+		3tbEERqFi8fQi9L/JC6oSuqYyaY=
 		</data>
 		<key>DataModel.momd/Model.mom</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QEq/Bq3GdjprDw8em+uRdkpjXVc=
+		EYkfGfMnTu4tMedl7tG9pelku4s=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/1qzCY6dROmPzjeW4MAXClq4dHM=
+		l/gHpnYrEyV5SNEARycnPLxGT/Q=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MJmJ38gGgXTf7wSOy6VBbsJ5J1k=
+		GuAh0yBHcsswwHdzx3edFdFhEbM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOa8mwSbJfMpRK6cE8G8C8uwARJz2VU4aasCa22hEyQ=
+			VbgpD90xUiMKIdIA0BXsgaB/gHPW/48CPP5RSKODv1s=
 			</data>
 		</dict>
 		<key>DataModel.momd/Model.mom</key>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TSop9CuLicvcJq2wLAyi7xkyfsqlMC88Ok+PujC1vt8=
+			C7NjW9JGDjiHFZS6IJHG4hbLpdbFXbHoZ3khdaWFXZE=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -206,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q5D1niJP3b6iqKdHeNcdAeaA2YaWUBVkV3OtPUpxwZs=
+			Aip+wiYtrrXug36FGBNPktcQG4tIcXDCVo8u3f6/9vY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
