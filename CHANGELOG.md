@@ -1,3 +1,7 @@
+## [0.18.1] - 2025-06-13
+Fixed:
+- revert filtering null from JSON in HTTP requests
+
 ## [0.18.0] - 2025-06-12
 Added:
 - sdk: continue scanning after unlock
