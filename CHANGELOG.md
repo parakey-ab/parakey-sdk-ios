@@ -1,3 +1,7 @@
+## [0.19.0] - 2025-06-24
+Added:
+- sdk: cancel ongoing unlock
+
 ## [0.18.1] - 2025-06-13
 Fixed:
 - revert filtering null from JSON in HTTP requests
