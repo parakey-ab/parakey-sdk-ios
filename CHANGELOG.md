@@ -1,3 +1,7 @@
+## [0.19.1] - 2025-06-25
+Fixed:
+- sdk: sporadic crahes when app is backgrounded
+
 ## [0.19.0] - 2025-06-24
 Added:
 - sdk: cancel ongoing unlock

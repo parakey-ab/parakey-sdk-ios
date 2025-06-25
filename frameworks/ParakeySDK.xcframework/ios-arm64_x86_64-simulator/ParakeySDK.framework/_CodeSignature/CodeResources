@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0PNYSPiPhh37tm206ekNnZzkQhI=
+		1JcL5AiJ56HPwB56asM8een1qWU=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		szzcBNOAP4cz2gkPcsCxSqsKZ7g=
+		BQsYGtLaM2JX4fV6v14+Zj1hAxI=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/AnhslItIPXJMyziGkA+cl0FKmk=
+		foTvAhWBPvInyCdE86V+8ZmsFxE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			enmLDT2kbzc6+xVceei+ONJBKOjSJypTz4HV/veqW+M=
+			Dti8FCB8IJHaqE2uI4/1636aIE5FJDdvREXRXPw84ro=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -206,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jf7NaRX6XA6f7dHYSdrSDO5fZvBP9jUo+exP+ucmMXQ=
+			ges8ZaYkdvAW5/raPle2iS26RLZ/Y8ePhlouuqGm1lw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
