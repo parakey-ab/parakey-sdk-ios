@@ -1,3 +1,7 @@
+## [0.19.3] - 2025-07-09
+Fixed:
+- nfc restriction behavior
+
 ## [0.19.2] - 2025-07-07
 Fixed:
 - remove nil and nulls from JSON in HTTP requests (again)
