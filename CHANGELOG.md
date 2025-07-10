@@ -1,3 +1,7 @@
+## [0.20.0] - 2025-07-10
+Added:
+- display confirmation message on unlock attempt
+
 ## [0.19.3] - 2025-07-09
 Fixed:
 - nfc restriction behavior
