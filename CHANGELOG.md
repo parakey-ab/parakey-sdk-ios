@@ -1,3 +1,8 @@
+## [0.20.2] - 2025-08-21
+Fixed:
+- scanning in background
+- unlock/lock timeout length is static
+
 ## [0.20.0] - 2025-07-10
 Added:
 - display confirmation message on unlock attempt
