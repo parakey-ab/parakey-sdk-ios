@@ -1,3 +1,7 @@
+## [0.20.3] - 2025-08-22
+Fixed:
+- NFC not finding locks
+
 ## [0.20.2] - 2025-08-21
 Fixed:
 - scanning in background
