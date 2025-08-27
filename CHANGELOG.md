@@ -1,3 +1,7 @@
+## [0.20.4] - 2025-08-27
+Fixed:
+- sdk: cancel button not themed
+
 ## [0.20.3] - 2025-08-22
 Fixed:
 - NFC not finding locks
