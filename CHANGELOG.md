@@ -1,3 +1,7 @@
+## [0.20.5] - 2025-09-12
+Fixed:
+- wrong NFC only copy
+
 ## [0.20.4] - 2025-08-27
 Fixed:
 - sdk: cancel button not themed
