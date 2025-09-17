@@ -1,3 +1,10 @@
+## [1.0.0] - 2025-09-17
+Added:
+-  minium supported version is now 15
+
+BREAKING CHANGES:
+- Drops support for iOS 14
+
 ## [0.20.5] - 2025-09-12
 Fixed:
 - wrong NFC only copy
