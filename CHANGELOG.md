@@ -1,3 +1,7 @@
+## [1.0.1] - 2025-09-19
+Fixed:
+- outdated swedish copy
+
 ## [1.0.0] - 2025-09-17
 Added:
 -  minium supported version is now 15
