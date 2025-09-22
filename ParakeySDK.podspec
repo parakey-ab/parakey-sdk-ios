@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.license = { :type => 'PROPRIETARY', :file => 'LICENSE.md' }
   spec.author = { "Parakey AB" => "support@parakey.co" }
   spec.swift_version = ['5.0', '6.0']
-  spec.platform = :ios, "14.0"
+  spec.platform = :ios, "15.0"
   spec.source = { :git => "https://github.com/parakey-ab/parakey-ios.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "frameworks/ParakeySDK.xcframework"
 end
