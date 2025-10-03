@@ -1,3 +1,10 @@
+## [1.1.0] - 2025-10-03
+Added:
+- add MDM flag to diagnostic logs
+
+Fixed:
+- potential crash when accessing deleted data
+
 ## [1.0.1] - 2025-09-19
 Fixed:
 - outdated swedish copy
