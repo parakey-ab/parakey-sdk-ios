@@ -1,3 +1,7 @@
+## [1.1.2] - 2025-10-06
+Fixed:
+- sdk: invalid switch color on iOS 26
+
 ## [1.1.1] - 2025-10-06
 Fixed:
 - sdk: invalid close button color on iOS 26
