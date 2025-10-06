@@ -1,3 +1,7 @@
+## [1.1.1] - 2025-10-06
+Fixed:
+- sdk: invalid close button color on iOS 26
+
 ## [1.1.0] - 2025-10-03
 Added:
 - add MDM flag to diagnostic logs
