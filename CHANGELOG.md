@@ -1,3 +1,7 @@
+## [1.2.0] - 2025-11-03
+Added:
+- sdk: run migrations on launch
+
 ## [1.1.2] - 2025-10-06
 Fixed:
 - sdk: invalid switch color on iOS 26
