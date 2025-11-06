@@ -1,3 +1,7 @@
+## [1.3.0] - 2025-11-06
+Added:
+- norwegian
+
 ## [1.2.0] - 2025-11-03
 Added:
 - sdk: run migrations on launch
