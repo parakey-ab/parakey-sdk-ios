@@ -1,3 +1,7 @@
+## [1.3.1] - 2025-11-26
+Fixed:
+- access dissappears after app update
+
 ## [1.3.0] - 2025-11-06
 Added:
 - norwegian
