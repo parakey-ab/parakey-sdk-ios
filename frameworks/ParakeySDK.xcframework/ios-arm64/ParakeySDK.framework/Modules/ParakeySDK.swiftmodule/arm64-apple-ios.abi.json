@@ -36,6 +36,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK"
+      },
+      {
+        "kind": "Import",
         "name": "ParakeyDomain",
         "printedName": "ParakeyDomain",
         "declKind": "Import",
@@ -892,6 +899,166 @@
         "printedName": "DeveloperToolsSupport",
         "declKind": "Import",
         "moduleName": "ParakeySDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIImage",
+        "printedName": "UIImage",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "bluetoothHint",
+            "printedName": "bluetoothHint",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So7UIImageC10ParakeySDKE13bluetoothHintABvpZ",
+            "mangledName": "$sSo7UIImageC10ParakeySDKE13bluetoothHintABvpZ",
+            "moduleName": "ParakeySDK",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So7UIImageC10ParakeySDKE13bluetoothHintABvgZ",
+                "mangledName": "$sSo7UIImageC10ParakeySDKE13bluetoothHintABvgZ",
+                "moduleName": "ParakeySDK",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIImage",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIImage",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ExpressibleByImageLiteral",
+            "printedName": "_ExpressibleByImageLiteral",
+            "usr": "s:s26_ExpressibleByImageLiteralP",
+            "mangledName": "$ss26_ExpressibleByImageLiteralP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
@@ -8929,7 +9096,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 2329,
+      "offset": 2338,
       "length": 5,
       "value": "false"
     },
@@ -9048,84 +9215,98 @@
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2679,
+      "offset": 2691,
+      "length": 17,
+      "value": "\"bluetoothAccess\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2844,
+      "length": 15,
+      "value": "\"bluetoothHint\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2987,
       "length": 11,
       "value": "\"checkmark\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2822,
+      "offset": 3130,
       "length": 13,
       "value": "\"unlockAlert\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2997,
+      "offset": 3305,
       "length": 28,
       "value": "\"unlockCompleteInstallation\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3163,
+      "offset": 3471,
       "length": 16,
       "value": "\"unlockInactive\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3319,
+      "offset": 3627,
       "length": 17,
       "value": "\"unlockModalFail\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3484,
+      "offset": 3792,
       "length": 21,
       "value": "\"unlockModalProgress\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3651,
+      "offset": 3959,
       "length": 20,
       "value": "\"unlockModalSuccess\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3803,
+      "offset": 4111,
       "length": 13,
       "value": "\"unlockReady\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3952,
+      "offset": 4260,
       "length": 15,
       "value": "\"unlockSuccess\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4111,
+      "offset": 4419,
       "length": 19,
       "value": "\"unlockUnavailable\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4268,
+      "offset": 4576,
       "length": 16,
       "value": "\"unlockUpcoming\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/Workspace-dygrjmxnulyqxjewrgmubkloxisq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4426,
+      "offset": 4734,
       "length": 18,
       "value": "\"unlockUpdateLock\""
     }

@@ -12,6 +12,11 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+extension UIKit.UIImage {
+  public static var bluetoothHint: UIKit.UIImage {
+    get
+  }
+}
 @_hasMissingDesignatedInitializers @available(iOS 15.6, *)
 final public class Parakey {
   public static let shared: ParakeySDK.Parakey
