@@ -9096,7 +9096,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 2338,
+      "offset": 2630,
       "length": 5,
       "value": "false"
     },
@@ -9110,7 +9110,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/ScanViewController.swift",
       "kind": "Array",
-      "offset": 558,
+      "offset": 750,
       "length": 2,
       "value": "[]"
     },
