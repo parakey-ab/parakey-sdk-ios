@@ -355,7 +355,7 @@
         "usr": "s:10ParakeySDK0A0C",
         "mangledName": "$s10ParakeySDK0A0C",
         "moduleName": "ParakeySDK",
-        "intro_iOS": "15.6",
+        "intro_iOS": "15.1",
         "declAttributes": [
           "Final",
           "AccessControl",
