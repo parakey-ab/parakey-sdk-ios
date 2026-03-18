@@ -6,31 +6,31 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		5XsyTXwlO128+FPi1IiEhVp7TUM=
+		rlA9OSJOmxNJrUP6C0OjdQ/rC68=
 		</data>
 		<key>DataModel.momd/Model.mom</key>
 		<data>
-		klrT719AjF6TpWToB5EZq0rQyEw=
+		dGj65JMggxOCbjWFl5bhCWTi/xw=
 		</data>
 		<key>DataModel.momd/VersionInfo.plist</key>
 		<data>
-		EcU6Kbh6plDjE62MiKYtBNgj1Nw=
+		XEJNxWFAEHlo9P2d1EO2L1zUJzk=
 		</data>
 		<key>Headers/ParakeySDK-Swift.h</key>
 		<data>
-		w7ejM+JZsbqWu/pMpPH2wrWOzhQ=
+		Fd3EsobZ17PitkHyRvH14vGTWGk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bGUj/ZWmFVYCl1cLBosTpng2w1I=
+		CDqTulkHIEg3Yv3uFy2rfgrg62w=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Rmi6jjQZXtkLiUYCZcymuzJdlHo=
+		rQEHSab1/XkG5Pyj47nN/ztp/Cg=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2xDBCb04XQxU0hFu+67YhDfMAXI=
+		TSIXjbSDlxoJWHAVVcwIZE2rN/Y=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2xDBCb04XQxU0hFu+67YhDfMAXI=
+		TSIXjbSDlxoJWHAVVcwIZE2rN/Y=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Nl0DmOP0v4lZOS8LnonFFu7XA8U=
+		75KJK5hx31aNhM8BHtHGGL19h94=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Rmi6jjQZXtkLiUYCZcymuzJdlHo=
+		rQEHSab1/XkG5Pyj47nN/ztp/Cg=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/UqvU+502zqcDDSVaPf+7zDPa5A=
+		8DZk4fnUQAiSsR6SZsJcl70Ji98=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/UqvU+502zqcDDSVaPf+7zDPa5A=
+		8DZk4fnUQAiSsR6SZsJcl70Ji98=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		10Miuc1PnWXTfAGNf6+50jHIICI=
+		efP+vWjkBliiWWK6tTqmPXs4B7Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,7 +76,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w9c3GqvLVOBYp/PqXsyHNR/rEo4=
+			wVMS8MRwVrC1kPhE4ufx9HUCFP0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ej8xz3SQlHdczs4e6Ce3BzdiJH4=
+			x65Ki9h6UEuIBa4Vh5k6Eu8Ltn0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HkbeVxdQCz9ahT8XqHR8KEej1zg=
+			MXnU2K3umv/YB2ST8wuKlTTmkxE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -133,42 +133,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AqvcqQMtLxVYcyDV8wbMSdeIFl2b+NpUAcvRQ2gaDgY=
+			wOQKb8ttZw/128b2V3dqC66cipnH65QIsKG27bontbM=
 			</data>
 		</dict>
 		<key>DataModel.momd/Model.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nUSnHYOfVn+AtKYXO9Rcr2gJcM9s3p1/tlq2bqTXftg=
+			EaaITkSJ6KDAcHZtEYmpVORlZIHKqPBM6l2S+6JXzjw=
 			</data>
 		</dict>
 		<key>DataModel.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			66V8X4sDS51aQqBNHvl734Blv8+M3klLvG+s7HBF1uk=
+			/sYyev/kKPdfIDNkF0CW0I2L7MXh6PWU1S3h74crGfg=
 			</data>
 		</dict>
 		<key>Headers/ParakeySDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4acJ1QAPRoqG+fKsMn3uVgLAk5HFYGjVlWb5sjojFBg=
+			b2XUSHPhlaNZHnFs4NrIXZ1KeES8YCjPSkzGl3DRELQ=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w3pMIz1Li2zY90Wj4yCgXRw02eCYIECZ92/8V377eT0=
+			/SyN0hnoPG3Rl0ERrisVBoPaAdAvGu0A03Gp8E42BJA=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AWRe0JmOOAvOmzuTQowndqVtBW5wLHomEwq/KP5qgp4=
+			Xh00plFeVJdBSBcuvaNuqro02HWi7RLy50my5k/d6Tg=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -182,28 +182,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AWRe0JmOOAvOmzuTQowndqVtBW5wLHomEwq/KP5qgp4=
+			Xh00plFeVJdBSBcuvaNuqro02HWi7RLy50my5k/d6Tg=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			66bKReW5Jav7K/i2jNNMz08mpbKVi2yerKiogAY6tH4=
+			Qydlym6R1pt5a3vqx1hgOpclprsRqi0xJQ2Y9LqKoYg=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w3pMIz1Li2zY90Wj4yCgXRw02eCYIECZ92/8V377eT0=
+			/SyN0hnoPG3Rl0ERrisVBoPaAdAvGu0A03Gp8E42BJA=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wg3XLrZTL7sfd6J1C5aQVC3uX2pX16b/IanOAkop3UY=
+			TYtCU7Z3K3YaNKYR8Lnxvz//lNV3D+5P9rnaMblQtms=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -217,14 +217,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wg3XLrZTL7sfd6J1C5aQVC3uX2pX16b/IanOAkop3UY=
+			TYtCU7Z3K3YaNKYR8Lnxvz//lNV3D+5P9rnaMblQtms=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QqVYo1Au4/WXd/tGXt+/sRaI5UyIqwgyJGz3wL7ie8o=
+			7KIkeRy6uR2rfvBHq4geb1BtsUZx4uNiSO/vaWDKgos=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -245,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rxZz3fUzoxP7p8cHIPZx2e66lSBB3MV9hq+l4qc3M54=
+			LlcHddXIftfQWlb7NDoaFXBpEWH9/5y+cr2jCHw6ph4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w9TK4J9JKlk1SjIr8jpPUM6ed0y7J3kPiaQ2wFA13PU=
+			fgCXL5PybBqyn5yqkHWrEJCFVT6hbSgQH+EpyYNGRmA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -281,7 +281,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			meOUmRI+rrbSrqR6LUAm2K/snY0OJGzXMMc+Cym9PcY=
+			dpQYCTGeVkiV03MfWpJNsYmQNeF7ewJ9dtgtWiB0Tv4=
 			</data>
 			<key>optional</key>
 			<true/>
