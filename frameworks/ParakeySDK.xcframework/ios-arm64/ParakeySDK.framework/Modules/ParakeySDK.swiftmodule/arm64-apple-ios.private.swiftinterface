@@ -3,7 +3,6 @@
 // swift-module-flags: -target arm64-apple-ios15.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name ParakeySDK
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import BackgroundTasks
-import CoreData
 import DeveloperToolsSupport
 import Foundation
 import LocalAuthentication
@@ -45,33 +44,5 @@ public enum ParakeyError : Swift.Error {
     get
   }
 }
-public typealias UnauthorizedAccountEntityCoreDataClassSet = Foundation.NSSet
-@_inheritsConvenienceInitializers @objc(UnauthorizedAccountEntity) nonisolated public class UnauthorizedAccountEntity : CoreData.NSManagedObject {
-  #if compiler(>=5.3) && $NonescapableTypes
-  @objc override nonisolated dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  #endif
-  @objc deinit
-}
-public typealias UnauthorizedAccountEntityCoreDataPropertiesSet = Foundation.NSSet
-extension ParakeySDK.UnauthorizedAccountEntity {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ParakeySDK.UnauthorizedAccountEntity>
-  #if compiler(>=5.3) && $NonescapableTypes
-  @objc @NSManaged nonisolated dynamic public var createdAt: Foundation.Date? {
-    @objc get
-    @objc set
-  }
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
-  @objc @NSManaged nonisolated dynamic public var email: Swift.String? {
-    @objc get
-    @objc set
-  }
-  #endif
-}
-extension ParakeySDK.UnauthorizedAccountEntity : Swift.Identifiable {
-  public typealias ID = Swift.ObjectIdentifier
-}
-public typealias DataModelFoundationFrameworkSet = Foundation.NSSet
-public typealias DataModelCoreDataFrameworkManagedObject = CoreData.NSManagedObject
 extension ParakeySDK.ParakeyError : Swift.Equatable {}
 extension ParakeySDK.ParakeyError : Swift.Hashable {}

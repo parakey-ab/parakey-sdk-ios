@@ -281,7 +281,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreData;
 #endif
 
 #endif
@@ -303,20 +302,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-
-@class NSEntityDescription;
-@class NSManagedObjectContext;
-SWIFT_CLASS_NAMED("UnauthorizedAccountEntity")
-@interface UnauthorizedAccountEntity : NSManagedObject
-- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSDate;
-@class NSString;
-@interface UnauthorizedAccountEntity (SWIFT_EXTENSION(ParakeySDK))
-@property (nonatomic, copy) NSDate * _Nullable createdAt;
-@property (nonatomic, copy) NSString * _Nullable email;
-@end
 
 #endif
 #if __has_attribute(external_source_symbol)
@@ -609,7 +594,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreData;
 #endif
 
 #endif
@@ -631,20 +615,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
-
-@class NSEntityDescription;
-@class NSManagedObjectContext;
-SWIFT_CLASS_NAMED("UnauthorizedAccountEntity")
-@interface UnauthorizedAccountEntity : NSManagedObject
-- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSDate;
-@class NSString;
-@interface UnauthorizedAccountEntity (SWIFT_EXTENSION(ParakeySDK))
-@property (nonatomic, copy) NSDate * _Nullable createdAt;
-@property (nonatomic, copy) NSString * _Nullable email;
-@end
 
 #endif
 #if __has_attribute(external_source_symbol)
