@@ -204,11 +204,13 @@
             "mangledName": "$s10ParakeySDK0A0C11isDebuggingSbvpZ",
             "moduleName": "ParakeySDK",
             "static": true,
+            "deprecated": true,
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
               "AccessControl",
+              "Available",
               "RawDocComment"
             ],
             "hasStorage": true,
@@ -280,10 +282,12 @@
                 "mangledName": "$s10ParakeySDK0A0C11isDebuggingSbvMZ",
                 "moduleName": "ParakeySDK",
                 "static": true,
+                "deprecated": true,
                 "implicit": true,
                 "intro_iOS": "15.1",
                 "declAttributes": [
                   "Final",
+                  "Available",
                   "Available"
                 ],
                 "accessorKind": "_modify"
@@ -9276,14 +9280,14 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "BooleanLiteral",
-      "offset": 875,
+      "offset": 951,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "BooleanLiteral",
-      "offset": 1166,
+      "offset": 1406,
       "length": 5,
       "value": "false"
     },

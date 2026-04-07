@@ -23,7 +23,11 @@ extension UIKit.UIImage {
 @_hasMissingDesignatedInitializers @available(iOS 15.1, *)
 final public class Parakey {
   public static let shared: ParakeySDK.Parakey
-  public static var isDebugging: Swift.Bool
+  @available(*, deprecated, message: "Will leak user data to system.log")
+  public static var isDebugging: Swift.Bool {
+    get
+    set
+  }
   final public func initialize()
   #if compiler(>=5.3) && $NonescapableTypes
   final public func theme(action: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil)
