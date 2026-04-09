@@ -9287,7 +9287,14 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "BooleanLiteral",
-      "offset": 1406,
+      "offset": 1122,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1413,
       "length": 5,
       "value": "false"
     },
