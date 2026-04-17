@@ -6,12 +6,15 @@ import BackgroundTasks
 import DeveloperToolsSupport
 import Foundation
 import LocalAuthentication
+import OSLog
 import Swift
 import SwiftUI
 import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import os.lock
+import os
 extension UIKit.UIImage {
   public static var bluetoothHint: UIKit.UIImage {
     get
@@ -20,6 +23,11 @@ extension UIKit.UIImage {
 @_hasMissingDesignatedInitializers @available(iOS 15.1, *)
 final public class Parakey {
   public static let shared: ParakeySDK.Parakey
+  @available(*, deprecated, message: "Will leak user data to system.log")
+  public static var isDebugging: Swift.Bool {
+    get
+    set
+  }
   final public func initialize()
   #if compiler(>=5.3) && $NonescapableTypes
   final public func theme(action: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil)
