@@ -64,6 +64,23 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "ParakeyDomain",
+        "printedName": "ParakeyDomain",
+        "declKind": "Import",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "OSLog",
         "printedName": "OSLog",
         "declKind": "Import",
@@ -387,7 +404,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(ParakeySDK.ParakeyError?) -> ()",
+                "printedName": "((any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -397,13 +414,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "ParakeySDK.ParakeyError?",
+                    "printedName": "(any Swift.Error)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ParakeyError",
-                        "printedName": "ParakeySDK.ParakeyError",
-                        "usr": "s:10ParakeySDK0A5ErrorO"
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
                       }
                     ],
                     "usr": "s:Sq"
@@ -412,8 +429,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10ParakeySDK0A0C9configure11tokenBundle10completionySS_yAA0A5ErrorOSgctF",
-            "mangledName": "$s10ParakeySDK0A0C9configure11tokenBundle10completionySS_yAA0A5ErrorOSgctF",
+            "usr": "s:10ParakeySDK0A0C9configure11tokenBundle10completionySS_ys5Error_pSgctF",
+            "mangledName": "$s10ParakeySDK0A0C9configure11tokenBundle10completionySS_ys5Error_pSgctF",
             "moduleName": "ParakeySDK",
             "declAttributes": [
               "Final",
@@ -457,7 +474,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(ParakeySDK.ParakeyError?) -> ()",
+                "printedName": "((any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -467,13 +484,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "ParakeySDK.ParakeyError?",
+                    "printedName": "(any Swift.Error)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ParakeyError",
-                        "printedName": "ParakeySDK.ParakeyError",
-                        "usr": "s:10ParakeySDK0A5ErrorO"
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
                       }
                     ],
                     "usr": "s:Sq"
@@ -482,8 +499,62 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10ParakeySDK0A0C8showScan10completionyyAA0A5ErrorOSgc_tF",
-            "mangledName": "$s10ParakeySDK0A0C8showScan10completionyyAA0A5ErrorOSgc_tF",
+            "usr": "s:10ParakeySDK0A0C8showScan10completionyys5Error_pSgc_tF",
+            "mangledName": "$s10ParakeySDK0A0C8showScan10completionyys5Error_pSgc_tF",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "unlock",
+            "printedName": "unlock(deviceID:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "((any Swift.Error)?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any Swift.Error)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10ParakeySDK0A0C6unlock8deviceID10completionySS_ys5Error_pSgctF",
+            "mangledName": "$s10ParakeySDK0A0C6unlock8deviceID10completionySS_ys5Error_pSgctF",
             "moduleName": "ParakeySDK",
             "declAttributes": [
               "Final",
@@ -524,269 +595,11 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "ParakeyError",
-        "printedName": "ParakeyError",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "invalidCredentials",
-            "printedName": "invalidCredentials",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ParakeySDK.ParakeyError.Type) -> ParakeySDK.ParakeyError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ParakeyError",
-                    "printedName": "ParakeySDK.ParakeyError",
-                    "usr": "s:10ParakeySDK0A5ErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ParakeySDK.ParakeyError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ParakeyError",
-                        "printedName": "ParakeySDK.ParakeyError",
-                        "usr": "s:10ParakeySDK0A5ErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:10ParakeySDK0A5ErrorO18invalidCredentialsyA2CmF",
-            "mangledName": "$s10ParakeySDK0A5ErrorO18invalidCredentialsyA2CmF",
-            "moduleName": "ParakeySDK",
-            "declAttributes": [
-              "RawDocComment"
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "invalidTokenBundle",
-            "printedName": "invalidTokenBundle",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ParakeySDK.ParakeyError.Type) -> ParakeySDK.ParakeyError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ParakeyError",
-                    "printedName": "ParakeySDK.ParakeyError",
-                    "usr": "s:10ParakeySDK0A5ErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ParakeySDK.ParakeyError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ParakeyError",
-                        "printedName": "ParakeySDK.ParakeyError",
-                        "usr": "s:10ParakeySDK0A5ErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:10ParakeySDK0A5ErrorO18invalidTokenBundleyA2CmF",
-            "mangledName": "$s10ParakeySDK0A5ErrorO18invalidTokenBundleyA2CmF",
-            "moduleName": "ParakeySDK",
-            "declAttributes": [
-              "RawDocComment"
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "configureFailure",
-            "printedName": "configureFailure",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ParakeySDK.ParakeyError.Type) -> ParakeySDK.ParakeyError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ParakeyError",
-                    "printedName": "ParakeySDK.ParakeyError",
-                    "usr": "s:10ParakeySDK0A5ErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ParakeySDK.ParakeyError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ParakeyError",
-                        "printedName": "ParakeySDK.ParakeyError",
-                        "usr": "s:10ParakeySDK0A5ErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:10ParakeySDK0A5ErrorO16configureFailureyA2CmF",
-            "mangledName": "$s10ParakeySDK0A5ErrorO16configureFailureyA2CmF",
-            "moduleName": "ParakeySDK",
-            "declAttributes": [
-              "RawDocComment"
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "sessionMissing",
-            "printedName": "sessionMissing",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ParakeySDK.ParakeyError.Type) -> ParakeySDK.ParakeyError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ParakeyError",
-                    "printedName": "ParakeySDK.ParakeyError",
-                    "usr": "s:10ParakeySDK0A5ErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ParakeySDK.ParakeyError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ParakeyError",
-                        "printedName": "ParakeySDK.ParakeyError",
-                        "usr": "s:10ParakeySDK0A5ErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:10ParakeySDK0A5ErrorO14sessionMissingyA2CmF",
-            "mangledName": "$s10ParakeySDK0A5ErrorO14sessionMissingyA2CmF",
-            "moduleName": "ParakeySDK",
-            "declAttributes": [
-              "RawDocComment"
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "==",
-            "printedName": "==(_:_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "ParakeyError",
-                "printedName": "ParakeySDK.ParakeyError",
-                "usr": "s:10ParakeySDK0A5ErrorO"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "ParakeyError",
-                "printedName": "ParakeySDK.ParakeyError",
-                "usr": "s:10ParakeySDK0A5ErrorO"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:10ParakeySDK0A5ErrorO2eeoiySbAC_ACtFZ",
-            "mangledName": "$s10ParakeySDK0A5ErrorO2eeoiySbAC_ACtFZ",
-            "moduleName": "ParakeySDK",
-            "static": true,
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "hashValue",
-            "printedName": "hashValue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10ParakeySDK0A5ErrorO9hashValueSivp",
-            "mangledName": "$s10ParakeySDK0A5ErrorO9hashValueSivp",
-            "moduleName": "ParakeySDK",
-            "implicit": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10ParakeySDK0A5ErrorO9hashValueSivg",
-                "mangledName": "$s10ParakeySDK0A5ErrorO9hashValueSivg",
-                "moduleName": "ParakeySDK",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "hash",
-            "printedName": "hash(into:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Hasher",
-                "printedName": "Swift.Hasher",
-                "paramValueOwnership": "InOut",
-                "usr": "s:s6HasherV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:10ParakeySDK0A5ErrorO4hash4intoys6HasherVz_tF",
-            "mangledName": "$s10ParakeySDK0A5ErrorO4hash4intoys6HasherVz_tF",
-            "moduleName": "ParakeySDK",
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:10ParakeySDK0A5ErrorO",
-        "mangledName": "$s10ParakeySDK0A5ErrorO",
+        "name": "UnlockFailed",
+        "printedName": "UnlockFailed",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK12UnlockFailedV",
+        "mangledName": "$s10ParakeySDK12UnlockFailedV",
         "moduleName": "ParakeySDK",
         "declAttributes": [
           "AccessControl",
@@ -809,17 +622,303 @@
           },
           {
             "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
           },
           {
             "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UnlockCanceled",
+        "printedName": "UnlockCanceled",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK14UnlockCanceledV",
+        "mangledName": "$s10ParakeySDK14UnlockCanceledV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AccessNotFound",
+        "printedName": "AccessNotFound",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK14AccessNotFoundV",
+        "mangledName": "$s10ParakeySDK14AccessNotFoundV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InvalidCredentials",
+        "printedName": "InvalidCredentials",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK18InvalidCredentialsV",
+        "mangledName": "$s10ParakeySDK18InvalidCredentialsV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InvalidTokenBundle",
+        "printedName": "InvalidTokenBundle",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK18InvalidTokenBundleV",
+        "mangledName": "$s10ParakeySDK18InvalidTokenBundleV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ConfigureFailure",
+        "printedName": "ConfigureFailure",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK16ConfigureFailureV",
+        "mangledName": "$s10ParakeySDK16ConfigureFailureV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SessionMissing",
+        "printedName": "SessionMissing",
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK14SessionMissingV",
+        "mangledName": "$s10ParakeySDK14SessionMissingV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -9299,6 +9398,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/DeviceIDUnlockCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 676,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/HTTPDebugger.swift",
       "kind": "IntegerLiteral",
       "offset": 125,
@@ -9329,7 +9435,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 2851,
+      "offset": 2790,
       "length": 5,
       "value": "false"
     },

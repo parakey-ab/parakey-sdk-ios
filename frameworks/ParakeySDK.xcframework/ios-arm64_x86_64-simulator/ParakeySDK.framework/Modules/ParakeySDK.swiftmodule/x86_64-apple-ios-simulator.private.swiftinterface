@@ -33,24 +33,28 @@ final public class Parakey {
   final public func theme(action: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
-  final public func configure(tokenBundle: Swift.String, completion: @escaping (ParakeySDK.ParakeyError?) -> Swift.Void)
+  final public func configure(tokenBundle: Swift.String, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   #endif
   final public func deconfigure()
   #if compiler(>=5.3) && $NonescapableTypes
-  final public func showScan(completion: @escaping (ParakeySDK.ParakeyError?) -> Swift.Void)
+  final public func showScan(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  final public func unlock(deviceID: Swift.String, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
   #endif
   @objc deinit
 }
-public enum ParakeyError : Swift.Error {
-  case invalidCredentials
-  case invalidTokenBundle
-  case configureFailure
-  case sessionMissing
-  public static func == (a: ParakeySDK.ParakeyError, b: ParakeySDK.ParakeyError) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
-    get
-  }
+public struct UnlockFailed : Swift.Error {
 }
-extension ParakeySDK.ParakeyError : Swift.Equatable {}
-extension ParakeySDK.ParakeyError : Swift.Hashable {}
+public struct UnlockCanceled : Swift.Error {
+}
+public struct AccessNotFound : Swift.Error {
+}
+public struct InvalidCredentials : Swift.Error {
+}
+public struct InvalidTokenBundle : Swift.Error {
+}
+public struct ConfigureFailure : Swift.Error {
+}
+public struct SessionMissing : Swift.Error {
+}
