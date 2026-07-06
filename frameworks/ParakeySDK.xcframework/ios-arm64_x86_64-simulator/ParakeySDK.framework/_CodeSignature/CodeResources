@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rlA9OSJOmxNJrUP6C0OjdQ/rC68=
+		FNB9kas0Mz3bvUtaVf9wt+TD+SU=
 		</data>
 		<key>DataModel.momd/Model.mom</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cYhWHLYfqrdH9E878WPHDLrSMEY=
+		h0hXd+NMDwz1otNziUotUbvHscg=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		K0S1sMXTyD1aip2z2e2E0n2rddc=
+		7nFs4dxgQj7RfQsdAbOFPoxnv7E=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QVxwyL4A0lZsIDsR0LCOd1UuBug=
+		xs4oQaO4k9VMSK3Nx5mPzGyAYUA=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QVxwyL4A0lZsIDsR0LCOd1UuBug=
+		xs4oQaO4k9VMSK3Nx5mPzGyAYUA=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3GhQSkM7Od2ifXy+LWtANhbl2ok=
+		AhRJyP6Veb8Ptl/Q/u3Gd288iXg=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		K0S1sMXTyD1aip2z2e2E0n2rddc=
+		7nFs4dxgQj7RfQsdAbOFPoxnv7E=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RdorJb6106Hrbxfx17NrflZBWSA=
+		WhqsVeTF7+B5YVNBrLTORtCHmho=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RdorJb6106Hrbxfx17NrflZBWSA=
+		WhqsVeTF7+B5YVNBrLTORtCHmho=
 		</data>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kAzXHhmB7MTztLNGXJLaGJhc28o=
+		iWe8qRNKQvbspDJzmS/RLLuxmEE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wOQKb8ttZw/128b2V3dqC66cipnH65QIsKG27bontbM=
+			4nWVPPLeTThxMA7LPpf/3ov7qkiWUMN2kY7L3eeq/ts=
 			</data>
 		</dict>
 		<key>DataModel.momd/Model.mom</key>
@@ -161,14 +161,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LRBSku4oql0aBDYtFR7UJgS2/yCCneG/ZGTpzxPBYkA=
+			2xxh6bmLb4adQmkO2+OVfmBxEbD0///fGaVS78MQBOI=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9VW+iHK9qAy6f1v9nsyDfFGSDUTl3tnskbGhdmXWca4=
+			HlzpE5TTz5RsFd8rvxVeM93JJ8BeWclRBiGxJekAe+I=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -182,28 +182,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9VW+iHK9qAy6f1v9nsyDfFGSDUTl3tnskbGhdmXWca4=
+			HlzpE5TTz5RsFd8rvxVeM93JJ8BeWclRBiGxJekAe+I=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7HnexDQp931BgEAGf+m5YmHqp5bKMfK1Z+dplUhRilQ=
+			rN0DWUfUpiyeUDSsYgWQKzVnbMA9aYjSYJ3xRL6n6Kw=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LRBSku4oql0aBDYtFR7UJgS2/yCCneG/ZGTpzxPBYkA=
+			2xxh6bmLb4adQmkO2+OVfmBxEbD0///fGaVS78MQBOI=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			915kepd73Xgc+zZiY1A5iQsLaBQ2YVVsB1IONSIxq9I=
+			JoDpH8Illw5x9ZqJnYaZVjy8ohl2rTmxZE4pJfGs7CE=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -217,14 +217,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			915kepd73Xgc+zZiY1A5iQsLaBQ2YVVsB1IONSIxq9I=
+			JoDpH8Illw5x9ZqJnYaZVjy8ohl2rTmxZE4pJfGs7CE=
 			</data>
 		</dict>
 		<key>Modules/ParakeySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8e5end2sz1JDxV2Ba2mpawokJWdAmV9VDc+ZKTS/IKw=
+			xJlEjPSfBbCE9NLZfivbyDXCyT8viKWJ52xQICjdv+0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -44,17 +44,33 @@ final public class Parakey {
   #endif
   @objc deinit
 }
-public struct UnlockFailed : Swift.Error {
+public protocol ParakeyError : Swift.Error, Swift.Identifiable {
 }
-public struct UnlockCanceled : Swift.Error {
+public struct UnlockFailed : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
 }
-public struct AccessNotFound : Swift.Error {
+public struct UnlockCanceled : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
 }
-public struct InvalidCredentials : Swift.Error {
+public struct AccessNotFound : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
 }
-public struct InvalidTokenBundle : Swift.Error {
+public struct InvalidCredentials : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
 }
-public struct ConfigureFailure : Swift.Error {
+public struct InvalidTokenBundle : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
 }
-public struct SessionMissing : Swift.Error {
+public struct ConfigureFailure : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
+}
+public struct SessionMissing : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
 }

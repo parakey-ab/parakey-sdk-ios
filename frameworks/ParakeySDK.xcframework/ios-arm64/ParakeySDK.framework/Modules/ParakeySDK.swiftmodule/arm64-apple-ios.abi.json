@@ -595,8 +595,154 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "ParakeyError",
+        "printedName": "ParakeyError",
+        "declKind": "Protocol",
+        "usr": "s:10ParakeySDK0A5ErrorP",
+        "mangledName": "$s10ParakeySDK0A5ErrorP",
+        "moduleName": "ParakeySDK",
+        "genericSig": "<τ_0_0 : Swift.Error, τ_0_0 : Swift.Identifiable>",
+        "sugared_genericSig": "<Self : Swift.Error, Self : Swift.Identifiable>",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "UnlockFailed",
         "printedName": "UnlockFailed",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK12UnlockFailedV2idSSvp",
+            "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK12UnlockFailedV2idSSvg",
+                "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK12UnlockFailedV2idSSvs",
+                "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK12UnlockFailedV2idSSvM",
+                "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK12UnlockFailedV",
         "mangledName": "$s10ParakeySDK12UnlockFailedV",
@@ -622,10 +768,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -647,6 +822,94 @@
         "kind": "TypeDecl",
         "name": "UnlockCanceled",
         "printedName": "UnlockCanceled",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK14UnlockCanceledV2idSSvp",
+            "mangledName": "$s10ParakeySDK14UnlockCanceledV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14UnlockCanceledV2idSSvg",
+                "mangledName": "$s10ParakeySDK14UnlockCanceledV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14UnlockCanceledV2idSSvs",
+                "mangledName": "$s10ParakeySDK14UnlockCanceledV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14UnlockCanceledV2idSSvM",
+                "mangledName": "$s10ParakeySDK14UnlockCanceledV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK14UnlockCanceledV",
         "mangledName": "$s10ParakeySDK14UnlockCanceledV",
@@ -672,10 +935,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -697,6 +989,94 @@
         "kind": "TypeDecl",
         "name": "AccessNotFound",
         "printedName": "AccessNotFound",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK14AccessNotFoundV2idSSvp",
+            "mangledName": "$s10ParakeySDK14AccessNotFoundV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14AccessNotFoundV2idSSvg",
+                "mangledName": "$s10ParakeySDK14AccessNotFoundV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14AccessNotFoundV2idSSvs",
+                "mangledName": "$s10ParakeySDK14AccessNotFoundV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14AccessNotFoundV2idSSvM",
+                "mangledName": "$s10ParakeySDK14AccessNotFoundV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK14AccessNotFoundV",
         "mangledName": "$s10ParakeySDK14AccessNotFoundV",
@@ -722,10 +1102,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -747,6 +1156,94 @@
         "kind": "TypeDecl",
         "name": "InvalidCredentials",
         "printedName": "InvalidCredentials",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK18InvalidCredentialsV2idSSvp",
+            "mangledName": "$s10ParakeySDK18InvalidCredentialsV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK18InvalidCredentialsV2idSSvg",
+                "mangledName": "$s10ParakeySDK18InvalidCredentialsV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK18InvalidCredentialsV2idSSvs",
+                "mangledName": "$s10ParakeySDK18InvalidCredentialsV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK18InvalidCredentialsV2idSSvM",
+                "mangledName": "$s10ParakeySDK18InvalidCredentialsV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK18InvalidCredentialsV",
         "mangledName": "$s10ParakeySDK18InvalidCredentialsV",
@@ -772,10 +1269,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -797,6 +1323,94 @@
         "kind": "TypeDecl",
         "name": "InvalidTokenBundle",
         "printedName": "InvalidTokenBundle",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK18InvalidTokenBundleV2idSSvp",
+            "mangledName": "$s10ParakeySDK18InvalidTokenBundleV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK18InvalidTokenBundleV2idSSvg",
+                "mangledName": "$s10ParakeySDK18InvalidTokenBundleV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK18InvalidTokenBundleV2idSSvs",
+                "mangledName": "$s10ParakeySDK18InvalidTokenBundleV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK18InvalidTokenBundleV2idSSvM",
+                "mangledName": "$s10ParakeySDK18InvalidTokenBundleV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK18InvalidTokenBundleV",
         "mangledName": "$s10ParakeySDK18InvalidTokenBundleV",
@@ -822,10 +1436,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -847,6 +1490,94 @@
         "kind": "TypeDecl",
         "name": "ConfigureFailure",
         "printedName": "ConfigureFailure",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK16ConfigureFailureV2idSSvp",
+            "mangledName": "$s10ParakeySDK16ConfigureFailureV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK16ConfigureFailureV2idSSvg",
+                "mangledName": "$s10ParakeySDK16ConfigureFailureV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK16ConfigureFailureV2idSSvs",
+                "mangledName": "$s10ParakeySDK16ConfigureFailureV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK16ConfigureFailureV2idSSvM",
+                "mangledName": "$s10ParakeySDK16ConfigureFailureV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK16ConfigureFailureV",
         "mangledName": "$s10ParakeySDK16ConfigureFailureV",
@@ -872,10 +1603,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -897,6 +1657,94 @@
         "kind": "TypeDecl",
         "name": "SessionMissing",
         "printedName": "SessionMissing",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK14SessionMissingV2idSSvp",
+            "mangledName": "$s10ParakeySDK14SessionMissingV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14SessionMissingV2idSSvg",
+                "mangledName": "$s10ParakeySDK14SessionMissingV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14SessionMissingV2idSSvs",
+                "mangledName": "$s10ParakeySDK14SessionMissingV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK14SessionMissingV2idSSvM",
+                "mangledName": "$s10ParakeySDK14SessionMissingV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:10ParakeySDK14SessionMissingV",
         "mangledName": "$s10ParakeySDK14SessionMissingV",
@@ -922,10 +1770,39 @@
           },
           {
             "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
             "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           },
           {
             "kind": "Conformance",
@@ -9431,6 +10308,55 @@
       "offset": 1412,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 10870,
+      "length": 14,
+      "value": "\"unlockFailed\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 11033,
+      "length": 16,
+      "value": "\"unlockCanceled\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 11178,
+      "length": 16,
+      "value": "\"accessNotFound\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 11342,
+      "length": 20,
+      "value": "\"invalidCredentials\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 11525,
+      "length": 20,
+      "value": "\"invalidTokenBundle\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 11784,
+      "length": 18,
+      "value": "\"configureFailure\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 12001,
+      "length": 16,
+      "value": "\"sessionMissing\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKContext.swift",
