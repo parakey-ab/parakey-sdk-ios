@@ -597,6 +597,50 @@
         "kind": "TypeDecl",
         "name": "ParakeyError",
         "printedName": "ParakeyError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK0A5ErrorP2idSSvp",
+            "mangledName": "$s10ParakeySDK0A5ErrorP2idSSvp",
+            "moduleName": "ParakeySDK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK0A5ErrorP2idSSvg",
+                "mangledName": "$s10ParakeySDK0A5ErrorP2idSSvg",
+                "moduleName": "ParakeySDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : ParakeySDK.ParakeyError>",
+                "sugared_genericSig": "<Self where Self : ParakeySDK.ParakeyError>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
         "declKind": "Protocol",
         "usr": "s:10ParakeySDK0A5ErrorP",
         "mangledName": "$s10ParakeySDK0A5ErrorP",
@@ -10312,49 +10356,49 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 10870,
+      "offset": 10898,
       "length": 14,
       "value": "\"unlockFailed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11033,
+      "offset": 11061,
       "length": 16,
       "value": "\"unlockCanceled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11178,
+      "offset": 11206,
       "length": 16,
       "value": "\"accessNotFound\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11342,
+      "offset": 11370,
       "length": 20,
       "value": "\"invalidCredentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11525,
+      "offset": 11553,
       "length": 20,
       "value": "\"invalidTokenBundle\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11784,
+      "offset": 11812,
       "length": 18,
       "value": "\"configureFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 12001,
+      "offset": 12029,
       "length": 16,
       "value": "\"sessionMissing\""
     },

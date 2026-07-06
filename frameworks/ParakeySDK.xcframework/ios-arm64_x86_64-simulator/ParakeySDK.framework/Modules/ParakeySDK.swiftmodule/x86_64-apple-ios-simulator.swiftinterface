@@ -45,6 +45,7 @@ final public class Parakey {
   @objc deinit
 }
 public protocol ParakeyError : Swift.Error, Swift.Identifiable {
+  var id: Swift.String { get }
 }
 public struct UnlockFailed : ParakeySDK.ParakeyError {
   public var id: Swift.String
