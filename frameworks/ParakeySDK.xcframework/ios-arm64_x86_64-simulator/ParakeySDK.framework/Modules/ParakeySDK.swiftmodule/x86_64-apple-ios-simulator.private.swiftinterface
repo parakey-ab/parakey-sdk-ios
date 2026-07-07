@@ -47,7 +47,7 @@ final public class Parakey {
 public protocol ParakeyError : Swift.Error, Swift.Identifiable {
   var id: Swift.String { get }
 }
-public struct UnlockFailed : ParakeySDK.ParakeyError {
+public struct UnlockFailure : ParakeySDK.ParakeyError {
   public var id: Swift.String
   public typealias ID = Swift.String
 }

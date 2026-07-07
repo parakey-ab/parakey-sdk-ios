@@ -697,8 +697,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "UnlockFailed",
-        "printedName": "UnlockFailed",
+        "name": "UnlockFailure",
+        "printedName": "UnlockFailure",
         "children": [
           {
             "kind": "Var",
@@ -713,8 +713,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10ParakeySDK12UnlockFailedV2idSSvp",
-            "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvp",
+            "usr": "s:10ParakeySDK13UnlockFailureV2idSSvp",
+            "mangledName": "$s10ParakeySDK13UnlockFailureV2idSSvp",
             "moduleName": "ParakeySDK",
             "declAttributes": [
               "HasInitialValue",
@@ -736,8 +736,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10ParakeySDK12UnlockFailedV2idSSvg",
-                "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvg",
+                "usr": "s:10ParakeySDK13UnlockFailureV2idSSvg",
+                "mangledName": "$s10ParakeySDK13UnlockFailureV2idSSvg",
                 "moduleName": "ParakeySDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -760,8 +760,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10ParakeySDK12UnlockFailedV2idSSvs",
-                "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvs",
+                "usr": "s:10ParakeySDK13UnlockFailureV2idSSvs",
+                "mangledName": "$s10ParakeySDK13UnlockFailureV2idSSvs",
                 "moduleName": "ParakeySDK",
                 "implicit": true,
                 "accessorKind": "set"
@@ -778,8 +778,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10ParakeySDK12UnlockFailedV2idSSvM",
-                "mangledName": "$s10ParakeySDK12UnlockFailedV2idSSvM",
+                "usr": "s:10ParakeySDK13UnlockFailureV2idSSvM",
+                "mangledName": "$s10ParakeySDK13UnlockFailureV2idSSvM",
                 "moduleName": "ParakeySDK",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -788,8 +788,8 @@
           }
         ],
         "declKind": "Struct",
-        "usr": "s:10ParakeySDK12UnlockFailedV",
-        "mangledName": "$s10ParakeySDK12UnlockFailedV",
+        "usr": "s:10ParakeySDK13UnlockFailureV",
+        "mangledName": "$s10ParakeySDK13UnlockFailureV",
         "moduleName": "ParakeySDK",
         "declAttributes": [
           "AccessControl",
@@ -10356,49 +10356,49 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 10898,
-      "length": 14,
-      "value": "\"unlockFailed\""
+      "offset": 10900,
+      "length": 15,
+      "value": "\"unlockFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11061,
+      "offset": 11064,
       "length": 16,
       "value": "\"unlockCanceled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11206,
+      "offset": 11209,
       "length": 16,
       "value": "\"accessNotFound\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11370,
+      "offset": 11373,
       "length": 20,
       "value": "\"invalidCredentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11553,
+      "offset": 11556,
       "length": 20,
       "value": "\"invalidTokenBundle\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11812,
+      "offset": 11815,
       "length": 18,
       "value": "\"configureFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 12029,
+      "offset": 12032,
       "length": 16,
       "value": "\"sessionMissing\""
     },
