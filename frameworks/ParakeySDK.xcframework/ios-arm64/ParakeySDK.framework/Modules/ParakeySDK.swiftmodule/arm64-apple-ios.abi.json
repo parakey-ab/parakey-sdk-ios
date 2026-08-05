@@ -1865,6 +1865,173 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "OperationInProgress",
+        "printedName": "OperationInProgress",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10ParakeySDK19OperationInProgressV2idSSvp",
+            "mangledName": "$s10ParakeySDK19OperationInProgressV2idSSvp",
+            "moduleName": "ParakeySDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK19OperationInProgressV2idSSvg",
+                "mangledName": "$s10ParakeySDK19OperationInProgressV2idSSvg",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK19OperationInProgressV2idSSvs",
+                "mangledName": "$s10ParakeySDK19OperationInProgressV2idSSvs",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10ParakeySDK19OperationInProgressV2idSSvM",
+                "mangledName": "$s10ParakeySDK19OperationInProgressV2idSSvM",
+                "moduleName": "ParakeySDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10ParakeySDK19OperationInProgressV",
+        "mangledName": "$s10ParakeySDK19OperationInProgressV",
+        "moduleName": "ParakeySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ParakeyError",
+            "printedName": "ParakeyError",
+            "usr": "s:10ParakeySDK0A5ErrorP",
+            "mangledName": "$s10ParakeySDK0A5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
@@ -10335,72 +10502,79 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "BooleanLiteral",
-      "offset": 950,
+      "offset": 1055,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "BooleanLiteral",
-      "offset": 1121,
+      "offset": 1226,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "BooleanLiteral",
-      "offset": 1412,
+      "offset": 1558,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 10900,
+      "offset": 13169,
       "length": 15,
       "value": "\"unlockFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11064,
+      "offset": 13333,
       "length": 16,
       "value": "\"unlockCanceled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11209,
+      "offset": 13478,
       "length": 16,
       "value": "\"accessNotFound\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11373,
+      "offset": 13642,
       "length": 20,
       "value": "\"invalidCredentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11556,
+      "offset": 13825,
       "length": 20,
       "value": "\"invalidTokenBundle\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 11815,
+      "offset": 14084,
       "length": 18,
       "value": "\"configureFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 12032,
+      "offset": 14301,
       "length": 16,
       "value": "\"sessionMissing\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
+      "kind": "StringLiteral",
+      "offset": 14739,
+      "length": 21,
+      "value": "\"operationInProgress\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKContext.swift",

@@ -75,3 +75,7 @@ public struct SessionMissing : ParakeySDK.ParakeyError {
   public var id: Swift.String
   public typealias ID = Swift.String
 }
+public struct OperationInProgress : ParakeySDK.ParakeyError {
+  public var id: Swift.String
+  public typealias ID = Swift.String
+}
