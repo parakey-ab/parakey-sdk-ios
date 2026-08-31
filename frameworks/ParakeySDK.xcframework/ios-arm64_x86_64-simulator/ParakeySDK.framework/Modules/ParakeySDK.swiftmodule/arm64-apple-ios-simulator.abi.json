@@ -10488,7 +10488,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/DeviceIDUnlockCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 719,
+      "offset": 762,
       "length": 5,
       "value": "false"
     },
@@ -10523,77 +10523,77 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13169,
+      "offset": 13181,
       "length": 15,
       "value": "\"unlockFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13333,
+      "offset": 13345,
       "length": 16,
       "value": "\"unlockCanceled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13478,
+      "offset": 13490,
       "length": 16,
       "value": "\"accessNotFound\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13642,
+      "offset": 13654,
       "length": 20,
       "value": "\"invalidCredentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13825,
+      "offset": 13837,
       "length": 20,
       "value": "\"invalidTokenBundle\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14084,
+      "offset": 14096,
       "length": 18,
       "value": "\"configureFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14301,
+      "offset": 14313,
       "length": 16,
       "value": "\"sessionMissing\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14739,
+      "offset": 14751,
       "length": 21,
       "value": "\"operationInProgress\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 2790,
+      "offset": 2780,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 813,
+      "offset": 750,
       "length": 21,
       "value": "\"slider.horizontal.3\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/ScanViewController.swift",
       "kind": "Array",
-      "offset": 756,
+      "offset": 801,
       "length": 2,
       "value": "[]"
     },
