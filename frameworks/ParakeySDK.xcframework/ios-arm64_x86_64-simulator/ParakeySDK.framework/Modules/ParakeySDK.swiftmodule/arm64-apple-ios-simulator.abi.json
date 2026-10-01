@@ -5987,4662 +5987,4662 @@
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32625,
+      "offset": 32666,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32640,
+      "offset": 32681,
       "length": 18,
       "value": "\"keep app updated\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32670,
-      "length": 104,
-      "value": "\"We continuously improve performance and security. Keeping Parakey updated ensures a better experience.\""
+      "offset": 32711,
+      "length": 145,
+      "value": "\"We continuously improve performance and security. Keeping Parakey updated ensures a better experience. This version will eventually be blocked.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32841,
+      "offset": 32923,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32856,
+      "offset": 32938,
       "length": 15,
       "value": "\"keep unlocked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32883,
+      "offset": 32965,
       "length": 15,
       "value": "\"Keep unlocked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 32999,
+      "offset": 33081,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33014,
+      "offset": 33096,
       "length": 19,
       "value": "\"keep unlocked url\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33045,
+      "offset": 33127,
       "length": 46,
       "value": "\"https:\/\/redirect.parakey.co\/en\/keep-unlocked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33139,
+      "offset": 33221,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33154,
+      "offset": 33236,
       "length": 5,
       "value": "\"key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33171,
+      "offset": 33253,
       "length": 5,
       "value": "\"Key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33244,
+      "offset": 33326,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33259,
+      "offset": 33341,
       "length": 14,
       "value": "\"key disabled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33285,
+      "offset": 33367,
       "length": 17,
       "value": "\"Key is disabled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33372,
+      "offset": 33454,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33387,
+      "offset": 33469,
       "length": 17,
       "value": "\"key has expired\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33416,
+      "offset": 33498,
       "length": 17,
       "value": "\"Key has expired\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33483,
+      "offset": 33565,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33498,
+      "offset": 33580,
       "length": 6,
       "value": "\"keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33516,
+      "offset": 33598,
       "length": 6,
       "value": "\"Keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33631,
+      "offset": 33713,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33646,
+      "offset": 33728,
       "length": 28,
       "value": "\"lacking install permission\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33686,
+      "offset": 33768,
       "length": 45,
       "value": "\"Lacking permission to complete installation\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33829,
+      "offset": 33911,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33844,
+      "offset": 33926,
       "length": 27,
       "value": "\"lacking update permission\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33883,
+      "offset": 33965,
       "length": 35,
       "value": "\"Lacking permission to update lock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33977,
+      "offset": 34059,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 33992,
+      "offset": 34074,
       "length": 11,
       "value": "\"last name\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34015,
+      "offset": 34097,
       "length": 11,
       "value": "\"Last name\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34092,
+      "offset": 34174,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34107,
+      "offset": 34189,
       "length": 23,
       "value": "\"last name placeholder\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34142,
+      "offset": 34224,
       "length": 7,
       "value": "\"Smith\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34201,
+      "offset": 34283,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34216,
+      "offset": 34298,
       "length": 7,
       "value": "\"later\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34235,
+      "offset": 34317,
       "length": 7,
       "value": "\"Later\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34332,
+      "offset": 34414,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34347,
+      "offset": 34429,
       "length": 27,
       "value": "\"latest software installed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34386,
+      "offset": 34468,
       "length": 27,
       "value": "\"Latest software installed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34471,
+      "offset": 34553,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34486,
+      "offset": 34568,
       "length": 10,
       "value": "\"lighting\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34508,
+      "offset": 34590,
       "length": 10,
       "value": "\"Lighting\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34593,
+      "offset": 34675,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34608,
+      "offset": 34690,
       "length": 18,
       "value": "\"limited duration\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34638,
+      "offset": 34720,
       "length": 20,
       "value": "\"(Limited duration)\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34903,
+      "offset": 34985,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34918,
+      "offset": 35000,
       "length": 15,
       "value": "\"locating lock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 34945,
+      "offset": 35027,
       "length": 14,
       "value": "\"Searching…\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35009,
+      "offset": 35091,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35024,
+      "offset": 35106,
       "length": 6,
       "value": "\"lock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35042,
+      "offset": 35124,
       "length": 6,
       "value": "\"Lock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35145,
+      "offset": 35227,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35160,
+      "offset": 35242,
       "length": 26,
       "value": "\"lock before trying again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35198,
+      "offset": 35280,
       "length": 36,
       "value": "\"Lock the phone before trying again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35293,
+      "offset": 35375,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35308,
+      "offset": 35390,
       "length": 11,
       "value": "\"lock menu\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35331,
+      "offset": 35413,
       "length": 11,
       "value": "\"Lock menu\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35416,
+      "offset": 35498,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35431,
+      "offset": 35513,
       "length": 23,
       "value": "\"lock name placeholder\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35466,
+      "offset": 35548,
       "length": 15,
       "value": "\"Main Entrance\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35601,
+      "offset": 35683,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35616,
+      "offset": 35698,
       "length": 30,
       "value": "\"lock requires authentication\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35658,
+      "offset": 35740,
       "length": 54,
       "value": "\"This lock requires authentication in order to unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35837,
+      "offset": 35919,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35852,
+      "offset": 35934,
       "length": 25,
       "value": "\"lock requires biometric\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 35889,
+      "offset": 35971,
       "length": 64,
       "value": "\"This lock requires biometric authentication in order to unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36007,
+      "offset": 36089,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36022,
+      "offset": 36104,
       "length": 8,
       "value": "\"locked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36042,
+      "offset": 36124,
       "length": 8,
       "value": "\"Locked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36109,
+      "offset": 36191,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36124,
+      "offset": 36206,
       "length": 9,
       "value": "\"locking\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36145,
+      "offset": 36227,
       "length": 12,
       "value": "\"Locking…\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36239,
+      "offset": 36321,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36254,
+      "offset": 36336,
       "length": 23,
       "value": "\"locking pins released\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36289,
+      "offset": 36371,
       "length": 23,
       "value": "\"Locking pins unlocked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36364,
+      "offset": 36446,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36379,
+      "offset": 36461,
       "length": 7,
       "value": "\"locks\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36398,
+      "offset": 36480,
       "length": 7,
       "value": "\"Locks\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36489,
+      "offset": 36571,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36504,
+      "offset": 36586,
       "length": 19,
       "value": "\"looking for locks\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36535,
+      "offset": 36617,
       "length": 29,
       "value": "\"Looking for nearby locks…\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36669,
+      "offset": 36751,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36684,
+      "offset": 36766,
       "length": 25,
       "value": "\"make sure device nearby\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36721,
+      "offset": 36803,
       "length": 45,
       "value": "\"Make sure that the correct device is nearby\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36854,
+      "offset": 36936,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36869,
+      "offset": 36951,
       "length": 23,
       "value": "\"make sure door closed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 36904,
+      "offset": 36986,
       "length": 30,
       "value": "\"Make sure the door is closed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37001,
+      "offset": 37083,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37016,
+      "offset": 37098,
       "length": 15,
       "value": "\"measure again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37043,
+      "offset": 37125,
       "length": 15,
       "value": "\"Measure again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37129,
+      "offset": 37211,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37144,
+      "offset": 37226,
       "length": 17,
       "value": "\"measure quality\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37173,
+      "offset": 37255,
       "length": 17,
       "value": "\"Measure quality\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37274,
+      "offset": 37356,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37289,
+      "offset": 37371,
       "length": 24,
       "value": "\"measure unlock quality\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37325,
+      "offset": 37407,
       "length": 24,
       "value": "\"Measure unlock quality\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37415,
+      "offset": 37497,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37430,
+      "offset": 37512,
       "length": 14,
       "value": "\"measurements\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37456,
+      "offset": 37538,
       "length": 14,
       "value": "\"Measurements\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37520,
+      "offset": 37602,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37535,
+      "offset": 37617,
       "length": 6,
       "value": "\"menu\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37553,
+      "offset": 37635,
       "length": 6,
       "value": "\"Menu\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37811,
+      "offset": 37893,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37826,
+      "offset": 37908,
       "length": 16,
       "value": "\"missing access\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37854,
+      "offset": 37936,
       "length": 14,
       "value": "\"No valid key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37956,
+      "offset": 38038,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 37971,
+      "offset": 38053,
       "length": 21,
       "value": "\"missing credentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38004,
+      "offset": 38086,
       "length": 30,
       "value": "\"Email or password is missing\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38130,
+      "offset": 38212,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38145,
+      "offset": 38227,
       "length": 20,
       "value": "\"missing permission\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38177,
+      "offset": 38259,
       "length": 39,
       "value": "\"Missing permission to complete action\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38268,
+      "offset": 38350,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38283,
+      "offset": 38365,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38302,
+      "offset": 38384,
       "length": 7,
       "value": "\"Model\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38600,
+      "offset": 38682,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38615,
+      "offset": 38697,
       "length": 13,
       "value": "\"move closer\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38640,
+      "offset": 38722,
       "length": 27,
       "value": "\"Move closer and try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38776,
+      "offset": 38858,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38791,
+      "offset": 38873,
       "length": 23,
       "value": "\"multiple accounts url\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38826,
+      "offset": 38908,
       "length": 50,
       "value": "\"https:\/\/redirect.parakey.co\/en\/multiple-accounts\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38977,
+      "offset": 39059,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 38992,
+      "offset": 39074,
       "length": 25,
       "value": "\"multiple stickers found\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39029,
+      "offset": 39111,
       "length": 40,
       "value": "\"Found more than one sticker, try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39119,
+      "offset": 39201,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39134,
+      "offset": 39216,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39152,
+      "offset": 39234,
       "length": 6,
       "value": "\"Name\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39256,
+      "offset": 39338,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39271,
+      "offset": 39353,
       "length": 13,
       "value": "\"nearby lock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39296,
+      "offset": 39378,
       "length": 48,
       "value": "\"There is a lock nearby you don't have a key to\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39396,
+      "offset": 39478,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39411,
+      "offset": 39493,
       "length": 7,
       "value": "\"never\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39430,
+      "offset": 39512,
       "length": 7,
       "value": "\"Never\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39485,
+      "offset": 39567,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39500,
+      "offset": 39582,
       "length": 5,
       "value": "\"new\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39517,
+      "offset": 39599,
       "length": 5,
       "value": "\"New\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39587,
+      "offset": 39669,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39602,
+      "offset": 39684,
       "length": 14,
       "value": "\"new password\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39628,
+      "offset": 39710,
       "length": 14,
       "value": "\"New password\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39734,
+      "offset": 39816,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39749,
+      "offset": 39831,
       "length": 24,
       "value": "\"new schedule available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 39785,
+      "offset": 39867,
       "length": 32,
       "value": "\"New lock schedule is available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40077,
+      "offset": 40159,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40092,
+      "offset": 40174,
       "length": 24,
       "value": "\"new software available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40128,
+      "offset": 40210,
       "length": 24,
       "value": "\"New software available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40242,
+      "offset": 40324,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40257,
+      "offset": 40339,
       "length": 23,
       "value": "\"new version available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40292,
+      "offset": 40374,
       "length": 31,
       "value": "\"New Parakey version available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40373,
+      "offset": 40455,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40388,
+      "offset": 40470,
       "length": 6,
       "value": "\"next\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40406,
+      "offset": 40488,
       "length": 6,
       "value": "\"Next\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40473,
+      "offset": 40555,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40488,
+      "offset": 40570,
       "length": 12,
       "value": "\"nfc reader\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40512,
+      "offset": 40594,
       "length": 12,
       "value": "\"NFC reader\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40930,
+      "offset": 41012,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40945,
+      "offset": 41027,
       "length": 29,
       "value": "\"nfc restriction alert title\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 40986,
+      "offset": 41068,
       "length": 53,
       "value": "\"Unlock by tapping the phone against the NFC sticker\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41126,
+      "offset": 41208,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41141,
+      "offset": 41223,
       "length": 17,
       "value": "\"nfc unsupported\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41170,
+      "offset": 41252,
       "length": 33,
       "value": "\"Your phone does not support NFC\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41313,
+      "offset": 41395,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41328,
+      "offset": 41410,
       "length": 12,
       "value": "\"no account\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41352,
+      "offset": 41434,
       "length": 12,
       "value": "\"No account\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41459,
+      "offset": 41541,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41474,
+      "offset": 41556,
       "length": 16,
       "value": "\"no account url\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41502,
+      "offset": 41584,
       "length": 43,
       "value": "\"https:\/\/redirect.parakey.co\/en\/no-account\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41630,
+      "offset": 41712,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41645,
+      "offset": 41727,
       "length": 20,
       "value": "\"no contact details\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41677,
+      "offset": 41759,
       "length": 29,
       "value": "\"No contact details provided\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41776,
+      "offset": 41858,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41791,
+      "offset": 41873,
       "length": 17,
       "value": "\"no key selected\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 41820,
+      "offset": 41902,
       "length": 17,
       "value": "\"No key selected\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42007,
+      "offset": 42089,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42022,
+      "offset": 42104,
       "length": 14,
       "value": "\"no keys body\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42048,
+      "offset": 42130,
       "length": 110,
       "value": "\"Contact a place administrator to get access.\n\nNearby locks will appear here after keys have been received.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42230,
+      "offset": 42312,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42245,
+      "offset": 42327,
       "length": 18,
       "value": "\"no keys received\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42275,
+      "offset": 42357,
       "length": 18,
       "value": "\"No keys received\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42362,
+      "offset": 42444,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42377,
+      "offset": 42459,
       "length": 17,
       "value": "\"no keys to send\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42406,
+      "offset": 42488,
       "length": 17,
       "value": "\"No keys to send\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42527,
+      "offset": 42609,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42542,
+      "offset": 42624,
       "length": 10,
       "value": "\"no locks\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42564,
+      "offset": 42646,
       "length": 10,
       "value": "\"No locks\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42660,
+      "offset": 42742,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42675,
+      "offset": 42757,
       "length": 19,
       "value": "\"no locks assigned\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42706,
+      "offset": 42788,
       "length": 31,
       "value": "\"No locks assigned to this key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42823,
+      "offset": 42905,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42838,
+      "offset": 42920,
       "length": 17,
       "value": "\"no locks nearby\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42867,
+      "offset": 42949,
       "length": 33,
       "value": "\"Could not find any locks nearby\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 42985,
+      "offset": 43067,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43000,
+      "offset": 43082,
       "length": 20,
       "value": "\"no logs to collect\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43032,
+      "offset": 43114,
       "length": 30,
       "value": "\"There are no logs to collect\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43128,
+      "offset": 43210,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43143,
+      "offset": 43225,
       "length": 15,
       "value": "\"no name given\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43170,
+      "offset": 43252,
       "length": 15,
       "value": "\"No name given\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43252,
+      "offset": 43334,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43267,
+      "offset": 43349,
       "length": 11,
       "value": "\"no places\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43290,
+      "offset": 43372,
       "length": 19,
       "value": "\"No places to show\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43409,
+      "offset": 43491,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43424,
+      "offset": 43506,
       "length": 24,
       "value": "\"no send key permission\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43460,
+      "offset": 43542,
       "length": 41,
       "value": "\"You don't have permission to send a key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43573,
+      "offset": 43655,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43588,
+      "offset": 43670,
       "length": 18,
       "value": "\"no type selected\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43618,
+      "offset": 43700,
       "length": 18,
       "value": "\"No type selected\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43703,
+      "offset": 43785,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43718,
+      "offset": 43800,
       "length": 15,
       "value": "\"none selected\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43745,
+      "offset": 43827,
       "length": 15,
       "value": "\"None selected\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43829,
+      "offset": 43911,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43844,
+      "offset": 43926,
       "length": 16,
       "value": "\"not accessible\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43872,
+      "offset": 43954,
       "length": 16,
       "value": "\"Not accessible\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43956,
+      "offset": 44038,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43971,
+      "offset": 44053,
       "length": 15,
       "value": "\"notifications\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 43998,
+      "offset": 44080,
       "length": 15,
       "value": "\"Notifications\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44146,
+      "offset": 44228,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44161,
+      "offset": 44243,
       "length": 33,
       "value": "\"notifications usage description\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44206,
+      "offset": 44288,
       "length": 64,
       "value": "\"Allow notifications in order to receive mobile access updates.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44318,
+      "offset": 44400,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44333,
+      "offset": 44415,
       "length": 5,
       "value": "\"now\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44350,
+      "offset": 44432,
       "length": 5,
       "value": "\"Now\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44494,
+      "offset": 44576,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44509,
+      "offset": 44591,
       "length": 15,
       "value": "\"offline limit\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44536,
+      "offset": 44618,
       "length": 87,
       "value": "\"After a phone restart or being offline for too long, Parakey requires internet access\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44669,
+      "offset": 44751,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44684,
+      "offset": 44766,
       "length": 4,
       "value": "\"ok\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44700,
+      "offset": 44782,
       "length": 4,
       "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44800,
+      "offset": 44882,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44815,
+      "offset": 44897,
       "length": 17,
       "value": "\"ok installation\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 44844,
+      "offset": 44926,
       "length": 42,
       "value": "\"Unlocking will work but will take longer\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45000,
+      "offset": 45082,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45015,
+      "offset": 45097,
       "length": 17,
       "value": "\"one device only\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45044,
+      "offset": 45126,
       "length": 61,
       "value": "\"Note that you can only be signed in on one device at a time\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45226,
+      "offset": 45308,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45241,
+      "offset": 45323,
       "length": 21,
       "value": "\"one device only sdk\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45274,
+      "offset": 45356,
       "length": 65,
       "value": "\"Note that only one device at a time can be signed in to Parakey\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45421,
+      "offset": 45503,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45436,
+      "offset": 45518,
       "length": 17,
       "value": "\"ongoing sign in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45465,
+      "offset": 45547,
       "length": 29,
       "value": "\"Sign in already in progress\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45561,
+      "offset": 45643,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45576,
+      "offset": 45658,
       "length": 15,
       "value": "\"open settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45603,
+      "offset": 45685,
       "length": 15,
       "value": "\"Open settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45691,
+      "offset": 45773,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45706,
+      "offset": 45788,
       "length": 7,
       "value": "\"other\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45725,
+      "offset": 45807,
       "length": 7,
       "value": "\"Other\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45803,
+      "offset": 45885,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45818,
+      "offset": 45900,
       "length": 17,
       "value": "\"other available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45847,
+      "offset": 45929,
       "length": 17,
       "value": "\"Other available\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45928,
+      "offset": 46010,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45943,
+      "offset": 46025,
       "length": 14,
       "value": "\"out of range\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 45969,
+      "offset": 46051,
       "length": 14,
       "value": "\"Out of range\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46094,
+      "offset": 46176,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46109,
+      "offset": 46191,
       "length": 25,
       "value": "\"output settings failure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46146,
+      "offset": 46228,
       "length": 50,
       "value": "\"Failed to update output settings on Parakey Slim\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46282,
+      "offset": 46364,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46297,
+      "offset": 46379,
       "length": 25,
       "value": "\"output settings updated\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46334,
+      "offset": 46416,
       "length": 25,
       "value": "\"Output settings updated\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46415,
+      "offset": 46497,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46430,
+      "offset": 46512,
       "length": 9,
       "value": "\"outside\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46451,
+      "offset": 46533,
       "length": 9,
       "value": "\"Outside\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46525,
+      "offset": 46607,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46540,
+      "offset": 46622,
       "length": 14,
       "value": "\"outside only\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46566,
+      "offset": 46648,
       "length": 14,
       "value": "\"Outside only\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46655,
+      "offset": 46737,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46670,
+      "offset": 46752,
       "length": 17,
       "value": "\"package expired\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46699,
+      "offset": 46781,
       "length": 21,
       "value": "\"Package has expired\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 46992,
+      "offset": 47074,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47007,
+      "offset": 47089,
       "length": 9,
       "value": "\"padlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47028,
+      "offset": 47110,
       "length": 9,
       "value": "\"Padlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47142,
+      "offset": 47224,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47157,
+      "offset": 47239,
       "length": 22,
       "value": "\"parakey app required\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47191,
+      "offset": 47273,
       "length": 47,
       "value": "\"Action must be performed from the Parakey app\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47296,
+      "offset": 47378,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47311,
+      "offset": 47393,
       "length": 10,
       "value": "\"password\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47333,
+      "offset": 47415,
       "length": 10,
       "value": "\"Password\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47399,
+      "offset": 47481,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47414,
+      "offset": 47496,
       "length": 5,
       "value": "\"pdl\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47431,
+      "offset": 47513,
       "length": 13,
       "value": "\"Parakey PDL\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47596,
+      "offset": 47678,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47611,
+      "offset": 47693,
       "length": 24,
       "value": "\"pdl relock explanation\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47647,
+      "offset": 47729,
       "length": 92,
       "value": "\"If the lock has not been opened within the provided duration, it will relock automatically\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47835,
+      "offset": 47917,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47850,
+      "offset": 47932,
       "length": 18,
       "value": "\"phone no feature\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47880,
+      "offset": 47962,
       "length": 42,
       "value": "\"This phone does not support this feature\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 47987,
+      "offset": 48069,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48002,
+      "offset": 48084,
       "length": 14,
       "value": "\"pick account\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48028,
+      "offset": 48110,
       "length": 14,
       "value": "\"Pick account\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48150,
+      "offset": 48232,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48165,
+      "offset": 48247,
       "length": 30,
       "value": "\"place yourself for measuring\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48207,
+      "offset": 48289,
       "length": 43,
       "value": "\"Place yourself where the user will unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48304,
+      "offset": 48386,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48319,
+      "offset": 48401,
       "length": 8,
       "value": "\"places\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48339,
+      "offset": 48421,
       "length": 8,
       "value": "\"Places\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48468,
+      "offset": 48550,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48483,
+      "offset": 48565,
       "length": 24,
       "value": "\"position not supported\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48519,
+      "offset": 48601,
       "length": 61,
       "value": "\"Parakey Door Handle must be installed on a vertical surface\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48684,
+      "offset": 48766,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48699,
+      "offset": 48781,
       "length": 19,
       "value": "\"position yourself\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48730,
+      "offset": 48812,
       "length": 48,
       "value": "\"Position yourself from where users will unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48842,
+      "offset": 48924,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48857,
+      "offset": 48939,
       "length": 13,
       "value": "\"preferences\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 48882,
+      "offset": 48964,
       "length": 13,
       "value": "\"Preferences\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49186,
+      "offset": 49268,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49201,
+      "offset": 49283,
       "length": 17,
       "value": "\"preset validity\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49230,
+      "offset": 49312,
       "length": 28,
       "value": "\"Date restriction is preset\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49316,
+      "offset": 49398,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49331,
+      "offset": 49413,
       "length": 10,
       "value": "\"previous\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49353,
+      "offset": 49435,
       "length": 10,
       "value": "\"Previous\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49419,
+      "offset": 49501,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49434,
+      "offset": 49516,
       "length": 9,
       "value": "\"proceed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49455,
+      "offset": 49537,
       "length": 9,
       "value": "\"Proceed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49560,
+      "offset": 49642,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49575,
+      "offset": 49657,
       "length": 26,
       "value": "\"proceed with bad quality\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49613,
+      "offset": 49695,
       "length": 35,
       "value": "\"Proceed with poor unlock quality?\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49718,
+      "offset": 49800,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49733,
+      "offset": 49815,
       "length": 9,
       "value": "\"program\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49754,
+      "offset": 49836,
       "length": 9,
       "value": "\"Program\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49841,
+      "offset": 49923,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49856,
+      "offset": 49938,
       "length": 21,
       "value": "\"program nfc sticker\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 49889,
+      "offset": 49971,
       "length": 21,
       "value": "\"Program NFC sticker\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50061,
+      "offset": 50143,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50076,
+      "offset": 50158,
       "length": 36,
       "value": "\"program sticker after installation\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50124,
+      "offset": 50206,
       "length": 80,
       "value": "\"You can program NFC stickers with another mobile device after the installation\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50281,
+      "offset": 50363,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50296,
+      "offset": 50378,
       "length": 16,
       "value": "\"range extender\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50324,
+      "offset": 50406,
       "length": 24,
       "value": "\"Parakey Range Extender\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50438,
+      "offset": 50520,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50453,
+      "offset": 50535,
       "length": 20,
       "value": "\"reached user limit\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50485,
+      "offset": 50567,
       "length": 34,
       "value": "\"You have reached your user limit\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50594,
+      "offset": 50676,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50609,
+      "offset": 50691,
       "length": 19,
       "value": "\"read instructions\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50640,
+      "offset": 50722,
       "length": 19,
       "value": "\"Read instructions\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50718,
+      "offset": 50800,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50733,
+      "offset": 50815,
       "length": 11,
       "value": "\"read more\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50756,
+      "offset": 50838,
       "length": 11,
       "value": "\"Read more\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50852,
+      "offset": 50934,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50867,
+      "offset": 50949,
       "length": 23,
       "value": "\"read terms of service\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50902,
+      "offset": 50984,
       "length": 27,
       "value": "\"Read the terms of service\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 50996,
+      "offset": 51078,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51011,
+      "offset": 51093,
       "length": 15,
       "value": "\"received keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51038,
+      "offset": 51120,
       "length": 15,
       "value": "\"Received keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51148,
+      "offset": 51230,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51163,
+      "offset": 51245,
       "length": 20,
       "value": "\"redownload package\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51195,
+      "offset": 51277,
       "length": 38,
       "value": "\"Redownload the package and try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51289,
+      "offset": 51371,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51304,
+      "offset": 51386,
       "length": 9,
       "value": "\"refresh\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51325,
+      "offset": 51407,
       "length": 9,
       "value": "\"Refresh\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51392,
+      "offset": 51474,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51407,
+      "offset": 51489,
       "length": 10,
       "value": "\"register\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51429,
+      "offset": 51511,
       "length": 10,
       "value": "\"Register\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51536,
+      "offset": 51618,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51551,
+      "offset": 51633,
       "length": 24,
       "value": "\"register lock key info\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51587,
+      "offset": 51669,
       "length": 38,
       "value": "\"Key will be valid for you for 7 days\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51704,
+      "offset": 51786,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51719,
+      "offset": 51801,
       "length": 22,
       "value": "\"release locking pins\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51753,
+      "offset": 51835,
       "length": 21,
       "value": "\"Unlock locking pins\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51868,
+      "offset": 51950,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51883,
+      "offset": 51965,
       "length": 28,
       "value": "\"release locking pins again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 51923,
+      "offset": 52005,
       "length": 31,
       "value": "\"Unlock the locking pins again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52050,
+      "offset": 52132,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52065,
+      "offset": 52147,
       "length": 30,
       "value": "\"release locking pins failure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52107,
+      "offset": 52189,
       "length": 31,
       "value": "\"Failed to unlock locking pins\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52260,
+      "offset": 52342,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52275,
+      "offset": 52357,
       "length": 29,
       "value": "\"release locking pins prompt\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52316,
+      "offset": 52398,
       "length": 58,
       "value": "\"Release the cylinder cover by unlocking the locking pins\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52428,
+      "offset": 52510,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52443,
+      "offset": 52525,
       "length": 8,
       "value": "\"remove\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52463,
+      "offset": 52545,
       "length": 8,
       "value": "\"Remove\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52595,
+      "offset": 52677,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52610,
+      "offset": 52692,
       "length": 23,
       "value": "\"remove access warning\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52645,
+      "offset": 52727,
       "length": 65,
       "value": "\"If you proceed the user will no longer have keys to this place.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52823,
+      "offset": 52905,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52838,
+      "offset": 52920,
       "length": 23,
       "value": "\"remove cylinder cover\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 52873,
+      "offset": 52955,
       "length": 54,
       "value": "\"Use the battery replacement tool to remove the cover\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53015,
+      "offset": 53097,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53030,
+      "offset": 53112,
       "length": 27,
       "value": "\"remove user clarification\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53069,
+      "offset": 53151,
       "length": 25,
       "value": "\"You can remove the user\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53204,
+      "offset": 53286,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53219,
+      "offset": 53301,
       "length": 30,
       "value": "\"remove user permission error\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53261,
+      "offset": 53343,
       "length": 45,
       "value": "\"You lack permission to remove member's keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53378,
+      "offset": 53460,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53393,
+      "offset": 53475,
       "length": 22,
       "value": "\"remove user question\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53427,
+      "offset": 53509,
       "length": 14,
       "value": "\"Remove user?\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53687,
+      "offset": 53769,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53702,
+      "offset": 53784,
       "length": 28,
       "value": "\"replace cylinder batteries\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 53742,
+      "offset": 53824,
       "length": 162,
       "value": "\"Remove both batteries.\n\nInstall the new batteries. Ensure correct battery orientation (see markings in both battery compartments).\n\nThe device will restart.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54002,
+      "offset": 54084,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54017,
+      "offset": 54099,
       "length": 18,
       "value": "\"required setting\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54047,
+      "offset": 54129,
       "length": 43,
       "value": "\"Required for Parakey to operate correctly\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54176,
+      "offset": 54258,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54191,
+      "offset": 54273,
       "length": 20,
       "value": "\"resend credentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54223,
+      "offset": 54305,
       "length": 29,
       "value": "\"Missing sign-in credentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54356,
+      "offset": 54438,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54371,
+      "offset": 54453,
       "length": 25,
       "value": "\"reset instructions sent\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54408,
+      "offset": 54490,
       "length": 43,
       "value": "\"Password reset instructions has been sent\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54595,
+      "offset": 54677,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54610,
+      "offset": 54692,
       "length": 19,
       "value": "\"restart bluetooth\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54641,
+      "offset": 54723,
       "length": 90,
       "value": "\"Try turning Bluetooth on and off in your phone’s settings or try restarting your phone\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54816,
+      "offset": 54898,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54831,
+      "offset": 54913,
       "length": 19,
       "value": "\"restricted to nfc\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 54862,
+      "offset": 54944,
       "length": 30,
       "value": "\"Unlock only with NFC sticker\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55004,
+      "offset": 55086,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55019,
+      "offset": 55101,
       "length": 26,
       "value": "\"rotate and pull cylinder\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55057,
+      "offset": 55139,
       "length": 51,
       "value": "\"Rotate and pull to remove the electronic cylinder\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55158,
+      "offset": 55240,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55173,
+      "offset": 55255,
       "length": 6,
       "value": "\"save\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55191,
+      "offset": 55273,
       "length": 6,
       "value": "\"Save\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55252,
+      "offset": 55334,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55267,
+      "offset": 55349,
       "length": 9,
       "value": "\"scan qr\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55288,
+      "offset": 55370,
       "length": 9,
       "value": "\"Scan QR\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55355,
+      "offset": 55437,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55370,
+      "offset": 55452,
       "length": 10,
       "value": "\"schedule\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55392,
+      "offset": 55474,
       "length": 10,
       "value": "\"Schedule\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55484,
+      "offset": 55566,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55499,
+      "offset": 55581,
       "length": 20,
       "value": "\"schedule activated\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55531,
+      "offset": 55613,
       "length": 25,
       "value": "\"Lock schedule activated\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55759,
+      "offset": 55841,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55774,
+      "offset": 55856,
       "length": 16,
       "value": "\"security alarm\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55802,
+      "offset": 55884,
       "length": 16,
       "value": "\"Security alarm\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55891,
+      "offset": 55973,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55906,
+      "offset": 55988,
       "length": 18,
       "value": "\"security setting\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 55936,
+      "offset": 56018,
       "length": 18,
       "value": "\"Security setting\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56008,
+      "offset": 56090,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56023,
+      "offset": 56105,
       "length": 8,
       "value": "\"select\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56043,
+      "offset": 56125,
       "length": 8,
       "value": "\"Select\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56112,
+      "offset": 56194,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56127,
+      "offset": 56209,
       "length": 12,
       "value": "\"select key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56151,
+      "offset": 56233,
       "length": 12,
       "value": "\"Select key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56213,
+      "offset": 56295,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56228,
+      "offset": 56310,
       "length": 6,
       "value": "\"send\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56246,
+      "offset": 56328,
       "length": 6,
       "value": "\"Send\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56309,
+      "offset": 56391,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56324,
+      "offset": 56406,
       "length": 10,
       "value": "\"send key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56346,
+      "offset": 56428,
       "length": 10,
       "value": "\"Send key\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56471,
+      "offset": 56553,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56486,
+      "offset": 56568,
       "length": 27,
       "value": "\"send key permission error\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56525,
+      "offset": 56607,
       "length": 53,
       "value": "\"Could not send key. Key's permissions have changed.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56679,
+      "offset": 56761,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56694,
+      "offset": 56776,
       "length": 23,
       "value": "\"send key restrictions\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 56729,
+      "offset": 56811,
       "length": 42,
       "value": "\"A sent key can't be forwarded afterwards\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57017,
+      "offset": 57099,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57032,
+      "offset": 57114,
       "length": 10,
       "value": "\"set time\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57054,
+      "offset": 57136,
       "length": 10,
       "value": "\"Set time\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57422,
+      "offset": 57504,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57437,
+      "offset": 57519,
       "length": 17,
       "value": "\"set up passcode\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57466,
+      "offset": 57548,
       "length": 74,
       "value": "\"Set up a passcode or other form of authentication in the system settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57598,
+      "offset": 57680,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57613,
+      "offset": 57695,
       "length": 10,
       "value": "\"settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57635,
+      "offset": 57717,
       "length": 10,
       "value": "\"Settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57695,
+      "offset": 57777,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57710,
+      "offset": 57792,
       "length": 6,
       "value": "\"show\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57728,
+      "offset": 57810,
       "length": 6,
       "value": "\"Show\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57858,
+      "offset": 57940,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57873,
+      "offset": 57955,
       "length": 22,
       "value": "\"show nfc description\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 57907,
+      "offset": 57989,
       "length": 66,
       "value": "\"Display a NFC button on the unlock tab that shows the NFC reader\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58023,
+      "offset": 58105,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58038,
+      "offset": 58120,
       "length": 6,
       "value": "\"sign\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58056,
+      "offset": 58138,
       "length": 6,
       "value": "\"Sign\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58126,
+      "offset": 58208,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58141,
+      "offset": 58223,
       "length": 14,
       "value": "\"sign back in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58167,
+      "offset": 58249,
       "length": 14,
       "value": "\"Sign back in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58236,
+      "offset": 58318,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58251,
+      "offset": 58333,
       "length": 9,
       "value": "\"sign in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58272,
+      "offset": 58354,
       "length": 9,
       "value": "\"Sign in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58354,
+      "offset": 58436,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58369,
+      "offset": 58451,
       "length": 14,
       "value": "\"sign in help\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58395,
+      "offset": 58477,
       "length": 23,
       "value": "\"Need help to sign in?\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58475,
+      "offset": 58557,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58490,
+      "offset": 58572,
       "length": 10,
       "value": "\"sign out\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58512,
+      "offset": 58594,
       "length": 10,
       "value": "\"Sign out\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58586,
+      "offset": 58668,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58601,
+      "offset": 58683,
       "length": 14,
       "value": "\"sign out all\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58627,
+      "offset": 58709,
       "length": 14,
       "value": "\"Sign out all\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58907,
+      "offset": 58989,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58922,
+      "offset": 59004,
       "length": 12,
       "value": "\"signed out\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 58946,
+      "offset": 59028,
       "length": 26,
       "value": "\"You have been signed out\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59075,
+      "offset": 59157,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59090,
+      "offset": 59172,
       "length": 28,
       "value": "\"signed out help center url\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59130,
+      "offset": 59212,
       "length": 41,
       "value": "\"https:\/\/help.parakey.co\/en\/articles\/106\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59248,
+      "offset": 59330,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59263,
+      "offset": 59345,
       "length": 16,
       "value": "\"signed out sdk\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59291,
+      "offset": 59373,
       "length": 25,
       "value": "\"Signed out from Parakey\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59422,
+      "offset": 59504,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59437,
+      "offset": 59519,
       "length": 23,
       "value": "\"simultaneous accounts\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59472,
+      "offset": 59554,
       "length": 46,
       "value": "\"Multiple accounts can be used simultaneously\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59568,
+      "offset": 59650,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59583,
+      "offset": 59665,
       "length": 6,
       "value": "\"skip\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59601,
+      "offset": 59683,
       "length": 6,
       "value": "\"Skip\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59671,
+      "offset": 59753,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59686,
+      "offset": 59768,
       "length": 11,
       "value": "\"skip step\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59709,
+      "offset": 59791,
       "length": 16,
       "value": "\"Skip this step\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59783,
+      "offset": 59865,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59798,
+      "offset": 59880,
       "length": 6,
       "value": "\"slim\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 59816,
+      "offset": 59898,
       "length": 14,
       "value": "\"Parakey Slim\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60145,
+      "offset": 60227,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60160,
+      "offset": 60242,
       "length": 17,
       "value": "\"stand on inside\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60189,
+      "offset": 60271,
       "length": 33,
       "value": "\"Stand on the inside of the door\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60310,
+      "offset": 60392,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60325,
+      "offset": 60407,
       "length": 18,
       "value": "\"stand on outside\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60355,
+      "offset": 60437,
       "length": 34,
       "value": "\"Stand on the outside of the door\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60524,
+      "offset": 60606,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60539,
+      "offset": 60621,
       "length": 32,
       "value": "\"stand still during measurement\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60583,
+      "offset": 60665,
       "length": 68,
       "value": "\"Stand still during the measurement. This will take about a minute.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60757,
+      "offset": 60839,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60772,
+      "offset": 60854,
       "length": 25,
       "value": "\"start before expiration\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60809,
+      "offset": 60891,
       "length": 45,
       "value": "\"Start date has to be before expiration date\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60920,
+      "offset": 61002,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60935,
+      "offset": 61017,
       "length": 11,
       "value": "\"start nfc\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 60958,
+      "offset": 61040,
       "length": 18,
       "value": "\"Start NFC reader\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61029,
+      "offset": 61111,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61044,
+      "offset": 61126,
       "length": 8,
       "value": "\"starts\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61064,
+      "offset": 61146,
       "length": 7,
       "value": "\"Start\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61175,
+      "offset": 61257,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61190,
+      "offset": 61272,
       "length": 24,
       "value": "\"sticker metal surfaces\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61226,
+      "offset": 61308,
       "length": 44,
       "value": "\"NFC stickers do not work on metal surfaces\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61361,
+      "offset": 61443,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61376,
+      "offset": 61458,
       "length": 24,
       "value": "\"sticker program failed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61412,
+      "offset": 61494,
       "length": 31,
       "value": "\"Could not program NFC sticker\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61545,
+      "offset": 61627,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61560,
+      "offset": 61642,
       "length": 25,
       "value": "\"sticker program success\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 61597,
+      "offset": 61679,
       "length": 41,
       "value": "\"NFC sticker was successfully programmed\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62273,
+      "offset": 62355,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62288,
+      "offset": 62370,
       "length": 18,
       "value": "\"terms of service\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62318,
+      "offset": 62400,
       "length": 18,
       "value": "\"Terms of service\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62437,
+      "offset": 62519,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62452,
+      "offset": 62534,
       "length": 19,
       "value": "\"tilted handle url\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62483,
+      "offset": 62565,
       "length": 46,
       "value": "\"https:\/\/redirect.parakey.co\/en\/tilted-handle\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62603,
+      "offset": 62685,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62618,
+      "offset": 62700,
       "length": 18,
       "value": "\"time set failure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62648,
+      "offset": 62730,
       "length": 20,
       "value": "\"Failed to set time\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62727,
+      "offset": 62809,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62742,
+      "offset": 62824,
       "length": 11,
       "value": "\"time zone\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62765,
+      "offset": 62847,
       "length": 11,
       "value": "\"Time zone\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62863,
+      "offset": 62945,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62878,
+      "offset": 62960,
       "length": 23,
       "value": "\"time zone unavailable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 62913,
+      "offset": 62995,
       "length": 28,
       "value": "\"Time zone data unavailable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63052,
+      "offset": 63134,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63067,
+      "offset": 63149,
       "length": 28,
       "value": "\"time zone unavailable body\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63107,
+      "offset": 63189,
       "length": 48,
       "value": "\"Couldn’t load the schedule. try again later.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63242,
+      "offset": 63324,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63257,
+      "offset": 63339,
       "length": 26,
       "value": "\"too many failed attempts\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63295,
+      "offset": 63377,
       "length": 26,
       "value": "\"Too many failed attempts\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63373,
+      "offset": 63455,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63388,
+      "offset": 63470,
       "length": 7,
       "value": "\"tools\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63407,
+      "offset": 63489,
       "length": 7,
       "value": "\"Tools\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63509,
+      "offset": 63591,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63524,
+      "offset": 63606,
       "length": 9,
       "value": "\"tos url\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63545,
+      "offset": 63627,
       "length": 49,
       "value": "\"https:\/\/redirect.parakey.co\/en\/terms-of-service\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63688,
+      "offset": 63770,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63703,
+      "offset": 63785,
       "length": 16,
       "value": "\"trigger unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63731,
+      "offset": 63813,
       "length": 41,
       "value": "\"Triggers an unlock on the selected lock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63852,
+      "offset": 63934,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63867,
+      "offset": 63949,
       "length": 19,
       "value": "\"trouble unlocking\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63898,
+      "offset": 63980,
       "length": 24,
       "value": "\"Trouble with unlocking\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 63988,
+      "offset": 64070,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64003,
+      "offset": 64085,
       "length": 14,
       "value": "\"troubleshoot\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64029,
+      "offset": 64111,
       "length": 14,
       "value": "\"Troubleshoot\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64102,
+      "offset": 64184,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64117,
+      "offset": 64199,
       "length": 11,
       "value": "\"try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64140,
+      "offset": 64222,
       "length": 11,
       "value": "\"Try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64259,
+      "offset": 64341,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64274,
+      "offset": 64356,
       "length": 19,
       "value": "\"turn on bluetooth\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64305,
+      "offset": 64387,
       "length": 53,
       "value": "\"Turn on Bluetooth in your iPhone’s Control Center\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64408,
+      "offset": 64490,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64423,
+      "offset": 64505,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64441,
+      "offset": 64523,
       "length": 6,
       "value": "\"Type\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64506,
+      "offset": 64588,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64521,
+      "offset": 64603,
       "length": 11,
       "value": "\"unique id\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64544,
+      "offset": 64626,
       "length": 11,
       "value": "\"Unique ID\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64915,
+      "offset": 64997,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64930,
+      "offset": 65012,
       "length": 23,
       "value": "\"unknown error message\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 64965,
+      "offset": 65047,
       "length": 60,
       "value": "\"Try again, if the problem persists contact Parakey support\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65104,
+      "offset": 65186,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65119,
+      "offset": 65201,
       "length": 21,
       "value": "\"unknown error title\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65152,
+      "offset": 65234,
       "length": 22,
       "value": "\"Encountered an error\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65260,
+      "offset": 65342,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65275,
+      "offset": 65357,
       "length": 25,
       "value": "\"unknown error try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65312,
+      "offset": 65394,
       "length": 26,
       "value": "\"Unknown error, try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65392,
+      "offset": 65474,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65407,
+      "offset": 65489,
       "length": 8,
       "value": "\"unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65427,
+      "offset": 65509,
       "length": 8,
       "value": "\"Unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65554,
+      "offset": 65636,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65569,
+      "offset": 65651,
       "length": 16,
       "value": "\"unlock ${lock}\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65597,
+      "offset": 65679,
       "length": 16,
       "value": "\"Unlock ${lock}\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65684,
+      "offset": 65766,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65699,
+      "offset": 65781,
       "length": 17,
       "value": "\"unlock duration\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65728,
+      "offset": 65810,
       "length": 17,
       "value": "\"Unlock duration\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65850,
+      "offset": 65932,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65865,
+      "offset": 65947,
       "length": 16,
       "value": "\"unlock failure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65893,
+      "offset": 65975,
       "length": 14,
       "value": "\"Can't unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 65990,
+      "offset": 66072,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66005,
+      "offset": 66087,
       "length": 26,
       "value": "\"unlock failure try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66043,
+      "offset": 66125,
       "length": 22,
       "value": "\"Failed — try again\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66330,
+      "offset": 66412,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66345,
+      "offset": 66427,
       "length": 19,
       "value": "\"unlock test title\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66376,
+      "offset": 66458,
       "length": 13,
       "value": "\"Test unlock\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66700,
+      "offset": 66782,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66715,
+      "offset": 66797,
       "length": 26,
       "value": "\"unlock usage description\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 66753,
+      "offset": 66835,
       "length": 49,
       "value": "\"Tap on the name of the lock you want to unlock.\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67043,
+      "offset": 67125,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67058,
+      "offset": 67140,
       "length": 10,
       "value": "\"unlocked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67080,
+      "offset": 67162,
       "length": 10,
       "value": "\"Unlocked\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67153,
+      "offset": 67235,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67168,
+      "offset": 67250,
       "length": 11,
       "value": "\"unlocking\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67191,
+      "offset": 67273,
       "length": 14,
       "value": "\"Unlocking…\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67275,
+      "offset": 67357,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67290,
+      "offset": 67372,
       "length": 14,
       "value": "\"unlocks from\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67316,
+      "offset": 67398,
       "length": 19,
       "value": "\"Users unlock from\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67785,
+      "offset": 67867,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67800,
+      "offset": 67882,
       "length": 8,
       "value": "\"update\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67820,
+      "offset": 67902,
       "length": 8,
       "value": "\"Update\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67895,
+      "offset": 67977,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67910,
+      "offset": 67992,
       "length": 15,
       "value": "\"update anyway\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 67937,
+      "offset": 68019,
       "length": 15,
       "value": "\"Update anyway\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68036,
+      "offset": 68118,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68051,
+      "offset": 68133,
       "length": 24,
       "value": "\"update device settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68087,
+      "offset": 68169,
       "length": 24,
       "value": "\"Update device settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68190,
+      "offset": 68272,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68205,
+      "offset": 68287,
       "length": 17,
       "value": "\"update extender\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68234,
+      "offset": 68316,
       "length": 25,
       "value": "\"Update Parakey Extender\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68322,
+      "offset": 68404,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68337,
+      "offset": 68419,
       "length": 13,
       "value": "\"update keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68362,
+      "offset": 68444,
       "length": 13,
       "value": "\"Update keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68459,
+      "offset": 68541,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68474,
+      "offset": 68556,
       "length": 24,
       "value": "\"update output settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68510,
+      "offset": 68592,
       "length": 24,
       "value": "\"Update output settings\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68616,
+      "offset": 68698,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68631,
+      "offset": 68713,
       "length": 17,
       "value": "\"update required\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68660,
+      "offset": 68742,
       "length": 28,
       "value": "\"Update software (required)\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68759,
+      "offset": 68841,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68774,
+      "offset": 68856,
       "length": 17,
       "value": "\"update software\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68803,
+      "offset": 68885,
       "length": 17,
       "value": "\"Update software\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68912,
+      "offset": 68994,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68927,
+      "offset": 69009,
       "length": 19,
       "value": "\"update to sign in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 68958,
+      "offset": 69040,
       "length": 38,
       "value": "\"Update Parakey to be able to sign in\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69075,
+      "offset": 69157,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69090,
+      "offset": 69172,
       "length": 10,
       "value": "\"updating\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69112,
+      "offset": 69194,
       "length": 31,
       "value": "\"Updating, don't close Parakey\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69206,
+      "offset": 69288,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69221,
+      "offset": 69303,
       "length": 13,
       "value": "\"upload logs\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69246,
+      "offset": 69328,
       "length": 13,
       "value": "\"Upload logs\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69330,
+      "offset": 69412,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69345,
+      "offset": 69427,
       "length": 18,
       "value": "\"user has no keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69375,
+      "offset": 69457,
       "length": 18,
       "value": "\"User has no keys\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69445,
+      "offset": 69527,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69460,
+      "offset": 69542,
       "length": 7,
       "value": "\"users\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69479,
+      "offset": 69561,
       "length": 7,
       "value": "\"Users\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69925,
+      "offset": 70007,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69940,
+      "offset": 70022,
       "length": 10,
       "value": "\"validity\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 69962,
+      "offset": 70044,
       "length": 10,
       "value": "\"Validity\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70069,
+      "offset": 70151,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70084,
+      "offset": 70166,
       "length": 23,
       "value": "\"validity set by admin\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70119,
+      "offset": 70201,
       "length": 39,
       "value": "\"(Date restriction is preset by admin)\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70223,
+      "offset": 70305,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70238,
+      "offset": 70320,
       "length": 14,
       "value": "\"vehicle gate\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70264,
+      "offset": 70346,
       "length": 14,
       "value": "\"Vehicle gate\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70342,
+      "offset": 70424,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70357,
+      "offset": 70439,
       "length": 12,
       "value": "\"verify dfu\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70381,
+      "offset": 70463,
       "length": 15,
       "value": "\"Verify update\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70471,
+      "offset": 70553,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70486,
+      "offset": 70568,
       "length": 15,
       "value": "\"verifying dfu\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70513,
+      "offset": 70595,
       "length": 23,
       "value": "\"Verifying software…\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70762,
+      "offset": 70844,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70777,
+      "offset": 70859,
       "length": 10,
       "value": "\"weekdays\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70799,
+      "offset": 70881,
       "length": 10,
       "value": "\"Weekdays\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70881,
+      "offset": 70963,
       "length": 13,
       "value": "\"Localizable\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70896,
+      "offset": 70978,
       "length": 15,
       "value": "\"welcome title\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/CommonAssets\/Source\/Strings+localized.swift",
       "kind": "StringLiteral",
-      "offset": 70923,
+      "offset": 71005,
       "length": 20,
       "value": "\"Welcome to Parakey\""
     },
