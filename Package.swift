@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "ParakeySDK",
     platforms: [
-        .iOS(.v15)
+        .iOS("15.1")
     ],
     products: [
         .library(
