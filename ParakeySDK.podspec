@@ -7,6 +7,6 @@ Pod::Spec.new do |spec|
   spec.author = { "Parakey AB" => "support@parakey.co" }
   spec.swift_version = ['5.0', '6.0']
   spec.platform = :ios, "15.1"
-  spec.source = { :git => "https://github.com/parakey-ab/parakey-ios.git", :tag => "#{spec.version}" }
+  spec.source = { :git => "https://github.com/parakey-ab/parakey-sdk-ios.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "frameworks/ParakeySDK.xcframework"
 end
