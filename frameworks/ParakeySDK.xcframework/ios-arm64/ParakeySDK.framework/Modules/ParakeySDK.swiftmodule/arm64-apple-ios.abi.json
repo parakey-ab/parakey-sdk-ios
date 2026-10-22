@@ -10761,7 +10761,7 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/DeviceIDUnlockCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 762,
+      "offset": 833,
       "length": 5,
       "value": "false"
     },
@@ -10852,14 +10852,14 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/SDKCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 750,
+      "offset": 789,
       "length": 21,
       "value": "\"slider.horizontal.3\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/ScanViewController.swift",
       "kind": "Array",
-      "offset": 801,
+      "offset": 894,
       "length": 2,
       "value": "[]"
     },
@@ -10985,77 +10985,98 @@
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3130,
+      "offset": 3118,
+      "length": 7,
+      "value": "\"globe\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3247,
+      "length": 8,
+      "value": "\"letter\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3375,
+      "length": 7,
+      "value": "\"phone\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3514,
       "length": 13,
       "value": "\"unlockAlert\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3305,
+      "offset": 3689,
       "length": 28,
       "value": "\"unlockCompleteInstallation\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3471,
+      "offset": 3855,
       "length": 16,
       "value": "\"unlockInactive\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3627,
+      "offset": 4011,
       "length": 17,
       "value": "\"unlockModalFail\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3792,
+      "offset": 4176,
       "length": 21,
       "value": "\"unlockModalProgress\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3959,
+      "offset": 4343,
       "length": 20,
       "value": "\"unlockModalSuccess\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4111,
+      "offset": 4495,
       "length": 13,
       "value": "\"unlockReady\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4260,
+      "offset": 4644,
       "length": 15,
       "value": "\"unlockSuccess\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4419,
+      "offset": 4803,
       "length": 19,
       "value": "\"unlockUnavailable\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4576,
+      "offset": 4960,
       "length": 16,
       "value": "\"unlockUpcoming\""
     },
     {
       "filePath": "\/Users\/distiller\/Library\/Developer\/Xcode\/DerivedData\/ParakeyWorkspace-dvoaltmdyxykjtdlnszxjsvzaywo\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ParakeySDK\/IntermediateBuildFilesPath\/ParakeySDK.build\/Release-iphoneos\/ParakeySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4734,
+      "offset": 5118,
       "length": 18,
       "value": "\"unlockUpdateLock\""
     }
