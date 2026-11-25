@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
-// swift-module-flags: -target x86_64-apple-ios15.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name ParakeySDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+// swift-compiler-version: Apple Swift version 6.4.2 effective-5.10 (swiftlang-6.4.2.1.9 clang-2100.4.1.1)
+// swift-module-flags: -target x86_64-apple-ios15.1-simulator -enable-objc-interop -enable-library-evolution -language-mode 5 -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name ParakeySDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.4.2
 import BackgroundTasks
 import DeveloperToolsSupport
 import Foundation
@@ -15,67 +15,59 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os.lock
 import os
-extension UIKit.UIImage {
-  public static var bluetoothHint: UIKit.UIImage {
+extension UIKit::UIImage {
+  public static var bluetoothHint: UIKit::UIImage {
     get
   }
 }
 @_hasMissingDesignatedInitializers @available(iOS 15.1, *)
 final public class Parakey {
-  public static let shared: ParakeySDK.Parakey
+  public static let shared: ParakeySDK::Parakey
   @available(*, deprecated, message: "Will leak user data to system.log")
-  public static var isDebugging: Swift.Bool {
+  public static var isDebugging: Swift::Bool {
     get
     set
   }
   final public func initialize()
-  #if compiler(>=5.3) && $NonescapableTypes
-  final public func theme(action: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil)
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
-  final public func configure(tokenBundle: Swift.String, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
-  #endif
+  final public func theme(action: UIKit::UIColor? = nil, title: UIKit::UIColor? = nil)
+  final public func configure(tokenBundle: Swift::String, completion: @escaping ((any Swift::Error)?) -> Swift::Void)
   final public func deconfigure()
-  #if compiler(>=5.3) && $NonescapableTypes
-  final public func showScan(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
-  #endif
-  #if compiler(>=5.3) && $NonescapableTypes
-  final public func unlock(deviceID: Swift.String, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
-  #endif
+  final public func showScan(completion: @escaping ((any Swift::Error)?) -> Swift::Void)
+  final public func unlock(deviceID: Swift::String, completion: @escaping ((any Swift::Error)?) -> Swift::Void)
   @objc deinit
 }
-public protocol ParakeyError : Swift.Error, Swift.Identifiable {
-  var id: Swift.String { get }
+public protocol ParakeyError : Swift::Error, Swift::Identifiable {
+  var id: Swift::String { get }
 }
-public struct UnlockFailure : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct UnlockFailure : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct UnlockCanceled : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct UnlockCanceled : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct AccessNotFound : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct AccessNotFound : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct InvalidCredentials : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct InvalidCredentials : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct InvalidTokenBundle : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct InvalidTokenBundle : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct ConfigureFailure : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct ConfigureFailure : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct SessionMissing : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct SessionMissing : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
-public struct OperationInProgress : ParakeySDK.ParakeyError {
-  public var id: Swift.String
-  public typealias ID = Swift.String
+public struct OperationInProgress : ParakeySDK::ParakeyError {
+  public var id: Swift::String
+  public typealias ID = Swift::String
 }
