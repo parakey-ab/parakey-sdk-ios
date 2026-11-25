@@ -11362,56 +11362,56 @@
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13544,
+      "offset": 13550,
       "length": 15,
       "value": "\"unlockFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13708,
+      "offset": 13714,
       "length": 16,
       "value": "\"unlockCanceled\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 13853,
+      "offset": 13859,
       "length": 16,
       "value": "\"accessNotFound\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14017,
+      "offset": 14023,
       "length": 20,
       "value": "\"invalidCredentials\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14200,
+      "offset": 14206,
       "length": 20,
       "value": "\"invalidTokenBundle\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14459,
+      "offset": 14465,
       "length": 18,
       "value": "\"configureFailure\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 14676,
+      "offset": 14682,
       "length": 16,
       "value": "\"sessionMissing\""
     },
     {
       "filePath": "\/Users\/distiller\/project\/ParakeySDK\/Source\/Parakey.swift",
       "kind": "StringLiteral",
-      "offset": 15114,
+      "offset": 15120,
       "length": 21,
       "value": "\"operationInProgress\""
     },
